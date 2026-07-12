@@ -1,0 +1,377 @@
+Symptom,Severity_Weight,Severity_Level
+Abdominal Distention,3,Mild
+Abdominal Pain,3,Mild
+Abdominal Swelling,3,Mild
+Abnormal Appearing Skin,3,Mild
+Abnormal Breathing Sounds,3,Mild
+Abnormal Involuntary Movements,3,Mild
+Abnormal Movement Of Eyelid,3,Mild
+Absence Of Menstruation,3,Mild
+Acne Or Pimples,3,Mild
+Allergic Reaction,3,Mild
+Altered Consciousness,7,Severe
+Anal Itching,3,Mild
+Anal Pain,3,Mild
+Ankle Swelling,3,Mild
+Anxiety,3,Mild
+Anxiety And Nervousness,3,Mild
+Apnea,3,Mild
+Arm Pain,3,Mild
+Ataxia,3,Mild
+Back Pain,3,Mild
+Bladder Discomfort,3,Mild
+Bladder Symptoms,3,Mild
+Bleeding Gums,3,Mild
+Blindness,3,Mild
+Blisters,3,Mild
+Bloating,2,Mild
+Blood Clots During Menstrual Periods,3,Mild
+Blood Transfusion History,3,Mild
+Blood in Sputum,6,Severe
+Blood in Stool,7,Severe
+Blood in Urine,3,Mild
+Blurred Vision,5,Moderate
+Body Ache,3,Mild
+Bone Pain,3,Mild
+Bradycardia,3,Mild
+Brittle Nails,1,Mild
+Bruising,3,Mild
+Burning Chest Pain,3,Mild
+Burning Urination,4,Moderate
+Changes In Stool Appearance,3,Mild
+Chest Pain,7,Severe
+Chest Tightness,5,Moderate
+Chills,3,Mild
+Cloudy Eye,3,Mild
+Cold Extremities,3,Mild
+Confusion,6,Severe
+Congestion In Chest,3,Mild
+Constipation,2,Mild
+Cough,2,Mild
+Cross-Eyed,3,Mild
+Cyanosis,7,Severe
+Dark Urine,4,Moderate
+Dehydration,5,Moderate
+Delusions/Hallucinations,3,Mild
+Depression,3,Mild
+Depressive Or Psychotic Symptoms,3,Mild
+Diarrhea,3,Mild
+Difficulty Eating,3,Mild
+Difficulty Speaking,3,Mild
+Difficulty Swallowing,6,Severe
+Diminished Hearing,3,Mild
+Diminished Vision,3,Mild
+Dizziness,4,Moderate
+Double Vision,3,Mild
+Dry Cough,2,Mild
+Dry Lips,3,Mild
+Dry Or Flaky Scalp,3,Mild
+Dry/Scaly Skin,3,Mild
+Ear Pain,3,Mild
+Early Or Late Onset Of Menopause,3,Mild
+Early Satiety,2,Mild
+Enlarged Thyroid,3,Mild
+Excessive Anger,3,Mild
+Excessive Appetite,3,Mild
+Excessive Hunger,3,Mild
+Excessive Sweating,3,Mild
+Excessive Thirst,3,Mild
+Excessive Urination At Night,3,Mild
+Exertional Chest Pain,3,Mild
+Exertional Dyspnea,3,Mild
+Eye Burns Or Stings,3,Mild
+Eye Deviation,3,Mild
+Eye Moves Abnormally,3,Mild
+Eye Pain,3,Mild
+Eye Redness,2,Mild
+Eyelid Swelling,3,Mild
+Facial Pain,3,Mild
+Facial Puffiness,3,Mild
+Fainting,3,Mild
+Fatigue,3,Mild
+Feeling Cold,3,Mild
+Feeling Hot,3,Mild
+Feeling Ill,3,Mild
+Fever,4,Moderate
+Flatulence,1,Mild
+Flu-Like Syndrome,3,Mild
+Fluid Overload,3,Mild
+Fluid Retention,3,Mild
+Flushing,3,Mild
+Focal Weakness,6,Severe
+Foot Or Toe Lump Or Mass,3,Mild
+Foreign Body Sensation In Eye,3,Mild
+Foul-Smelling Urine,3,Mild
+Frequent Menstruation,3,Mild
+Frequent Urination,3,Mild
+Frontal Headache,3,Mild
+Gait Instability,3,Mild
+Generalized Stiffness,3,Mild
+Gum Pain,3,Mild
+Hair Loss (Patchy),3,Mild
+Headache,3,Mild
+Heartburn,3,Mild
+Heavy Menstrual Flow,3,Mild
+Hematemesis,7,Severe
+High Fever,6,Severe
+High-Risk Sexual Contact,3,Mild
+Hip Pain,3,Mild
+Hoarseness,2,Mild
+Hostile Behavior,3,Mild
+Hot Flashes,3,Mild
+Hyperpigmentation,3,Mild
+Hypopigmentation,3,Mild
+Impotence,3,Mild
+Incontinence Of Stool,3,Mild
+Increased Appetite,3,Mild
+Infertility,3,Mild
+Insomnia,3,Mild
+Intermenstrual Bleeding,3,Mild
+Involuntary Urination,3,Mild
+Irregular Appearing Nails,3,Mild
+Irregular Appearing Scalp,3,Mild
+Irregular Blood Sugar,3,Mild
+Irregular Heartbeat,3,Mild
+Irritability,2,Mild
+Itching,2,Mild
+Itchy Eyelid,3,Mild
+Itchy Eyes,1,Mild
+Jaundice,3,Mild
+Jaundiced Skin,6,Severe
+Joint Pain,3,Mild
+Joint Stiffness,3,Mild
+Knee Pain,3,Mild
+Leg Swelling,3,Mild
+Lethargy,3,Mild
+Light Sensitivity,3,Mild
+Limb Weakness,5,Moderate
+Limping,3,Mild
+Lip Swelling,3,Mild
+Long Menstrual Periods,3,Mild
+Loss Of Sensation,3,Mild
+Loss Of Sex Drive,3,Mild
+Loss of Appetite,3,Mild
+Loss of Balance,4,Moderate
+Loss of Smell,3,Mild
+Loss of Taste,3,Mild
+Low Urine Output,3,Mild
+Lower Abdominal Pain,3,Mild
+Lower Back Pain,3,Mild
+Lower Body Pain,3,Mild
+Lump In Throat,3,Mild
+Lymphedema,3,Mild
+Maculopapular Rash,3,Mild
+Malaise,3,Mild
+Mass Or Swelling Around The Anus,3,Mild
+Melena (Dark Stools),6,Severe
+Memory Loss,4,Moderate
+Mild Fever,2,Mild
+Morning Stiffness,2,Mild
+Mouth Dryness,3,Mild
+Mouth Pain,3,Mild
+Mouth Ulcer,3,Mild
+Muscle Cramps,3,Mild
+"Muscle Cramps, Contractures, Or Spasms",3,Mild
+Muscle Pain,3,Mild
+Muscle Stiffness,3,Mild
+Muscle Swelling,3,Mild
+Muscle Weakness,4,Moderate
+Nail Inflammation,3,Mild
+Nail Pitting,3,Mild
+Nasal Congestion,2,Mild
+Nausea,3,Mild
+Neck Pain,3,Mild
+Neck Swelling,3,Mild
+Night Sweats,4,Moderate
+Nosebleed,3,Mild
+Numbness,3,Mild
+Obesity,3,Mild
+Orthopnea,3,Mild
+Pain Behind Eyes,4,Moderate
+Pain During Intercourse,3,Mild
+Pain In Gums,3,Mild
+Painful Breathing,3,Mild
+Painful Defecation,3,Mild
+Painful Menstruation,3,Mild
+Painful Urination,4,Moderate
+Painful Walking,3,Mild
+Pallor (Pale Skin),5,Moderate
+Palpitations,4,Moderate
+Pelvic Pain,3,Mild
+Pelvic Pressure,3,Mild
+Peripheral Edema,3,Mild
+Personality Changes,3,Mild
+Petechiae,3,Mild
+Phlegm,3,Mild
+Photosensitive Rash,3,Mild
+Pleuritic Chest Pain,3,Mild
+Polyuria (Excessive Urination),3,Mild
+Poor Circulation,3,Mild
+Post-Nasal Drip,1,Mild
+Premature Ejaculation,3,Mild
+Premenstrual Tension Or Irritability,3,Mild
+Problems With Movement,3,Mild
+Productive Cough,2,Mild
+Puffy Face,3,Mild
+Pustules,2,Mild
+Rapid Breathing,5,Moderate
+Rare Symptom Angiokeratomas Rare,3,Mild
+Rare Symptom Arrhythmia Persistent Rare,3,Mild
+Rare Symptom Bloody Sputum Rare,3,Mild
+Rare Symptom Bone Fractures Pathologic Rare,3,Mild
+Rare Symptom Bone Marrow Failure Rare,3,Mild
+Rare Symptom Bronchiectasis Rare,3,Mild
+Rare Symptom Bulbar Symptoms Rare,3,Mild
+Rare Symptom Butterfly Rash,3,Mild
+Rare Symptom Cardiomyopathy Rare,3,Mild
+Rare Symptom Developmental Delay Rare,3,Mild
+Rare Symptom Digital Clubbing,3,Mild
+Rare Symptom Dysautonomia Rare,3,Mild
+Rare Symptom Erythema Nodosum,3,Mild
+Rare Symptom Foot Drop Rare,3,Mild
+Rare Symptom Hearing Loss Early Onset Rare,3,Mild
+Rare Symptom Hematuria,3,Mild
+Rare Symptom Hemolytic Anemia Rare,3,Mild
+Rare Symptom Hepatosplenomegaly Rare,3,Mild
+Rare Symptom Hyperextensible Skin Rare,3,Mild
+Rare Symptom Joint Hypermobility Rare,3,Mild
+Rare Symptom Kyphoscoliosis Rare,3,Mild
+Rare Symptom Lens Dislocation Rare,3,Mild
+Rare Symptom Macroglossia Rare,3,Mild
+Rare Symptom Malar Rash,3,Mild
+Rare Symptom Massive Splenomegaly Rare,3,Mild
+Rare Symptom Neuropathic Pain Rare,3,Mild
+Rare Symptom Optic Neuritis Rare,3,Mild
+Rare Symptom Oral Ulcers,3,Mild
+Rare Symptom Pancytopenia Rare,3,Mild
+Rare Symptom Portal Hypertension Signs Rare,3,Mild
+Rare Symptom Proteinuria,3,Mild
+Rare Symptom Proximal Muscle Weakness Rare,3,Mild
+Rare Symptom Raynaud Phenomenon,3,Mild
+Rare Symptom Renal Cysts Rare,3,Mild
+Rare Symptom Respiratory Failure Rare,3,Mild
+Rare Symptom Skin Calcifications Rare,3,Mild
+Rare Symptom Spastic Paraparesis Rare,3,Mild
+Rare Symptom Steatorrhea Rare,3,Mild
+Rare Symptom Tall Stature Rare,3,Mild
+Rectal Bleeding,6,Severe
+Red Spots,3,Mild
+Redness In Or Around Nose,3,Mild
+Regurgitation,3,Mild
+Restlessness,3,Mild
+Runny Nose,1,Mild
+Scalp Itching,1,Mild
+Scanty Menstrual Flow,3,Mild
+Seizures,7,Severe
+Sharp Chest Pain,3,Mild
+Shortness of Breath,7,Severe
+Shoulder Pain,3,Mild
+Silver Dusting,3,Mild
+Sinus Congestion,2,Mild
+Sinus Pain,3,Mild
+Sinus Pressure,2,Mild
+Skin Discoloration,2,Mild
+Skin Growth,3,Mild
+Skin Irritation,3,Mild
+Skin Lesion,3,Mild
+Skin Moles,3,Mild
+Skin Nodules,3,Mild
+Skin Pain,3,Mild
+Skin Peeling,2,Mild
+Skin Rash,3,Mild
+Skin Redness,3,Mild
+Skin Swelling,3,Mild
+Sleepiness,3,Mild
+Slurred Speech,6,Severe
+Sneezing,1,Mild
+Sore In Nose,3,Mild
+Sore Throat,2,Mild
+Sound Sensitivity,3,Mild
+Speech Changes,3,Mild
+Speech Difficulty,3,Mild
+Spots Or Clouds In Vision,3,Mild
+Stiff Neck,3,Mild
+Suprapubic Pain,3,Mild
+Swollen Extremities,3,Mild
+Swollen Joints,3,Mild
+Swollen Lymph Nodes,4,Moderate
+Swollen Or Red Tonsils,3,Mild
+Symptom Anhedonia,3,Mild
+Symptom Clammy Skin,3,Mild
+Symptom Claudication,3,Mild
+Symptom Cold Intolerance Symptom,3,Mild
+Symptom Compulsions,3,Mild
+Symptom Digital Ulcers,3,Mild
+Symptom Enthesitis,3,Mild
+Symptom Exercise Intolerance,3,Mild
+Symptom Facial Droop,3,Mild
+Symptom Fatigue On Exertion,3,Mild
+Symptom Frequent Nosebleeds,3,Mild
+Symptom Gi Bleeding,3,Mild
+Symptom Hair Loss Symptom,3,Mild
+Symptom Heat Intolerance Symptom,3,Mild
+Symptom Hot Flashes,3,Mild
+Symptom Hypersomnia,3,Mild
+Symptom Livedo Reticularis,3,Mild
+Symptom Low Mood,3,Mild
+Symptom Migraine Symptom,3,Mild
+Symptom Obsessions,3,Mild
+Symptom Panic Attacks,3,Mild
+Symptom Paroxysmal Nocturnal Dyspnea,3,Mild
+Symptom Photosensitivity Symptom,3,Mild
+Symptom Prolonged Bleeding,3,Mild
+Symptom Rash Psoriasiform,3,Mild
+Symptom Recurrent Infections,3,Mild
+Symptom Reduced Range Of Motion,3,Mild
+Symptom Shortness Of Breath On Exertion,3,Mild
+Symptom Sinus Pain,3,Mild
+Symptom Skin Thickening,3,Mild
+Symptom Social Withdrawal,3,Mild
+Symptom Spasticity,3,Mild
+Symptom Spine Rigidity,3,Mild
+Symptom Splenomegaly Symptom,3,Mild
+Symptom Suicidal Ideation,3,Mild
+Symptom Syncope,3,Mild
+Symptom Telangiectasia,3,Mild
+Symptom Tendon Tenderness,3,Mild
+Symptom Tremor Symptom,3,Mild
+Symptom Vision Blur,3,Mild
+Tachycardia,5,Moderate
+Thirst,3,Mild
+Throat Feels Tight,3,Mild
+Throat Redness,3,Mild
+Throat Swelling,3,Mild
+Tingling/Paresthesia,3,Mild
+Tongue Lesions,3,Mild
+Too Little Hair,3,Mild
+Toothache,3,Mild
+Tremors,4,Moderate
+Ulcers On Tongue,3,Mild
+Unintentional Weight Loss,3,Mild
+Unpredictable Menstruation,3,Mild
+Unsteadiness,3,Mild
+Unsterile Injection History,3,Mild
+Unusual Behavior,3,Mild
+Unusual Color Or Odor To Urine,3,Mild
+Unwanted Hair,3,Mild
+Upper Abdominal Pain,3,Mild
+Urinary Retention,3,Mild
+Urticaria (Hives),3,Mild
+Vaginal Discharge,3,Mild
+Vaginal Dryness,3,Mild
+Vaginal Itching,3,Mild
+Vaginal Pain,3,Mild
+Vaginal Redness,3,Mild
+Vertigo,4,Moderate
+Visual Disturbances,5,Moderate
+Vomiting,4,Moderate
+Vulvar Irritation,3,Mild
+Warts,3,Mild
+Watery Eyes,1,Mild
+Weakness,4,Moderate
+Weight Gain,3,Mild
+Weight Loss,4,Moderate
+Wheezing,5,Moderate
+Wrinkles On Skin,3,Mild
+Yellow Crust,3,Mild
+Yellow Eyes,6,Severe

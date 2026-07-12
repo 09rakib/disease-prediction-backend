@@ -1,0 +1,796 @@
+Disease,Recommended_Specialist
+Abdominal Aortic Aneurysm,Vascular Surgeon
+Abdominal Hernia,General Surgeon
+Abscess Of Nose,ENT Specialist (Otolaryngologist)
+Abscess Of The Lung,Pulmonologist
+Abscess Of The Pharynx,ENT Specialist (Otolaryngologist)
+Acanthosis Nigricans,Dermatologist / Endocrinologist
+Acariasis,Infectious Disease Specialist
+Achalasia,Gastroenterologist
+Acne,Dermatologist
+Actinic Keratosis,Dermatologist
+Acute Bronchitis,Pulmonologist
+Acute Bronchospasm,Pulmonologist
+Acute Fatty Liver Of Pregnancy (Aflp),Obstetrician & Gynecologist / Hepatologist
+Acute Glaucoma,Ophthalmologist
+Acute Kidney Injury,Nephrologist
+Acute Otitis Media,ENT Specialist (Otolaryngologist)
+Acute Pancreatitis,Gastroenterologist
+Acute Respiratory Distress Syndrome (Ards),Pulmonologist / Critical Care Specialist
+Acute Stress Reaction,Psychiatrist
+Adhesive Capsulitis Of The Shoulder,Orthopedic Surgeon
+Adjustment Reaction,Psychiatrist / Clinical Psychologist
+Adrenal Adenoma,Endocrinologist
+Adrenal Cancer,Medical Oncologist / Endocrinologist
+Alcohol Abuse,Psychiatrist (Addiction Medicine Specialist)
+Alcohol Intoxication,Emergency Medicine Specialist
+Alcohol Withdrawal,Psychiatrist (Addiction Medicine Specialist)
+Alcoholic Hepatitis,Hepatologist
+Alcoholic Liver Disease,Hepatologist
+Allergy,Allergy & Immunology Specialist
+Allergy To Animals,Allergy & Immunology Specialist
+Alopecia,Dermatologist
+Alzheimer Disease,Neurologist
+Amblyopia,Ophthalmologist
+Amyloidosis,Hematologist
+Amyotrophic Lateral Sclerosis (ALS),Neurologist
+Amyotrophic Lateral Sclerosis (Als),Neurologist
+Anal Fissure,Colorectal Surgeon
+Anal Fistula,Colorectal Surgeon
+Anemia,Hematologist
+Anemia Due To Chronic Kidney Disease,Nephrologist
+Anemia Due To Malignancy,Hematologist / Medical Oncologist
+Anemia Of Chronic Disease,Hematologist
+Angina,Cardiologist
+Ankylosing Spondylitis,Rheumatologist
+Anxiety Disorder,Psychiatrist / Clinical Psychologist
+Aortic Valve Disease,Cardiologist
+Aphakia,Ophthalmologist
+Aphthous Ulcer,Oral Medicine Specialist / Dentist
+Aplastic Anemia,Hematologist
+Appendicitis,General Surgeon
+Arrhythmia,Cardiologist
+Arthritis Of The Hip,Orthopedic Surgeon
+Ascending Cholangitis,Gastroenterologist
+Asperger Syndrome,Psychiatrist
+Aspergillosis,Infectious Disease Specialist
+Asthma,Pulmonologist
+Astigmatism,Ophthalmologist
+Atelectasis,Pulmonologist
+Athlete'S Foot,Dermatologist
+Atonic Bladder,Urologist
+Atrial Fibrillation,Cardiologist
+Atrial Flutter,Cardiologist
+Atrophic Skin Condition,Dermatologist
+Atrophic Vaginitis,Gynecologist
+Atrophy Of The Corpus Cavernosum,Urologist
+Attention Deficit Hyperactivity Disorder (Adhd),Psychiatrist
+Autism,Developmental Pediatrician / Psychiatrist
+Autonomic Nervous System Disorder,Neurologist
+Avascular Necrosis,Orthopedic Surgeon
+Balanitis,Urologist
+Bell Palsy,Neurologist
+Benign Kidney Cyst,Urologist
+Benign Paroxysmal Positional Vertical (Bppv),General Physician
+Benign Prostatic Hyperplasia (Bph),Urologist
+Benign Vaginal Discharge (Leukorrhea),Gynecologist
+Bipolar Disorder,Psychiatrist
+Birth Trauma,Obstetrician & Gynecologist
+Bladder Cancer,Urologist / Medical Oncologist
+Bladder Disorder,Urologist
+Bladder Obstruction,Urologist
+Blepharitis,Ophthalmologist
+Blepharospasm,Neurologist
+Bone Cancer,Orthopedic Oncologist / Medical Oncologist
+Bone Disorder,Orthopedic Surgeon
+Brachial Neuritis,Neurologist
+Brain Cancer,Neurosurgeon / Medical Oncologist
+Brain Hemorrhage,Neurosurgeon
+Breast Cancer,Breast Surgeon / Medical Oncologist
+Breast Cyst,Breast Surgeon
+Breast Infection (Mastitis),Breast Surgeon / Gynecologist
+Broken Tooth,Dentist
+Bronchiolitis,Pediatrician / Pulmonologist
+Bronchitis,Pulmonologist
+Bunion,Orthopedic Surgeon
+Burn,Plastic Surgeon / Burn Specialist
+Bursitis,Orthopedic Surgeon
+COPD,Pulmonologist
+COVID-19,Infectious Disease Specialist
+Callus,Dermatologist
+Carbon Monoxide Poisoning,Emergency Medicine Specialist
+Carcinoid Syndrome,Medical Oncologist
+Cardiac Arrest,Cardiologist
+Cardiomyopathy,Cardiologist
+Carpal Tunnel Syndrome,Neurologist / Orthopedic Surgeon
+Cat Scratch Disease,Infectious Disease Specialist
+Cataract,Ophthalmologist
+Celiac Disease,Gastroenterologist
+Cellulitis Or Abscess Of Mouth,Oral & Maxillofacial Surgeon
+Central Atherosclerosis,Vascular Surgeon
+Central Retinal Artery Or Vein Occlusion,Ophthalmologist
+Cerebral Edema,Neurologist / Neurosurgeon
+Cerebral Palsy,Neurologist
+Cervical Cancer,Gynecologic Oncologist
+Cervical Disorder,Orthopedic Spine Surgeon
+Cervical Spondylosis,Orthopedic Spine Surgeon / Neurologist
+Cervicitis,Gynecologist
+Chalazion,Ophthalmologist
+Chickenpox,Infectious Disease Specialist
+Chlamydia,Gynecologist / Urologist
+Cholecystitis,General Surgeon
+Choledocholithiasis,Gastroenterologist
+Cholesteatoma,ENT Specialist (Otolaryngologist)
+Chondromalacia Of The Patella,Orthopedic Surgeon
+Chorioretinitis,Ophthalmologist
+Chronic Cholestasis,Hepatologist
+Chronic Constipation,Gastroenterologist
+Chronic Glaucoma,Ophthalmologist
+Chronic Inflammatory Demyelinating Polyneuropathy (Cidp),Neurologist
+Chronic Kidney Disease (CKD),Nephrologist
+Chronic Knee Pain,Orthopedic Surgeon
+Chronic Liver Disease,Hepatologist
+Chronic Obstructive Pulmonary Disease (Copd),Pulmonologist
+Chronic Otitis Media,ENT Specialist (Otolaryngologist)
+Chronic Pain Disorder,Pain Management Specialist
+Chronic Pancreatitis,Gastroenterologist
+Chronic Rheumatic Fever,Cardiologist
+Chronic Ulcer,General Surgeon
+Cirrhosis,Hepatologist
+Coagulation (Bleeding) Disorder,Hematologist
+Cold Sore,Dermatologist
+Colonic Polyp,Gastroenterologist
+Colorectal Cancer,Colorectal Surgeon / Medical Oncologist
+Common Cold,General Physician
+Complex Regional Pain Syndrome,Pain Management Specialist
+Concussion,Neurologist
+Conduct Disorder,Psychiatrist
+Conductive Hearing Loss,ENT Specialist (Otolaryngologist)
+Congenital Heart Defect,Pediatric Cardiologist
+Congenital Malformation Syndrome,Clinical Geneticist
+Conjunctivitis,Ophthalmologist
+Conjunctivitis Due To Allergy,Allergy & Immunology Specialist / Ophthalmologist
+Conjunctivitis Due To Bacteria,Ophthalmologist
+Conjunctivitis Due To Virus,Ophthalmologist
+Connective Tissue Disorder,Rheumatologist
+Contact Dermatitis,Dermatologist
+Conversion Disorder,Psychiatrist
+Cornea Infection,Ophthalmologist
+Corneal Abrasion,Ophthalmologist
+Corneal Disorder,Ophthalmologist
+Coronary Artery Disease,Cardiologist
+Coronary Atherosclerosis,Cardiologist
+Cranial Nerve Palsy,Neurologist
+Crohn's Disease,Gastroenterologist
+Croup,Pediatrician
+Crushing Injury,Orthopedic Surgeon
+Cryptococcosis,Infectious Disease Specialist
+Cushing Syndrome,Endocrinologist
+Cyst Of The Eyelid,Ophthalmologist
+Cystic Fibrosis,Pulmonologist
+Cysticercosis,Infectious Disease Specialist
+Cystitis,Urologist
+De Quervain Disease,Orthopedic Hand Surgeon
+Decubitus Ulcer,General Surgeon
+Deep Vein Thrombosis (Dvt),Vascular Surgeon
+Degenerative Disc Disease,Orthopedic Spine Surgeon
+Delirium,Neurologist
+Dementia,Neurologist
+Dengue Fever,Infectious Disease Specialist
+Dental Caries,Dentist
+Depression,Psychiatrist
+Dermatitis Due To Sun Exposure,Dermatologist
+Developmental Disability,Developmental Pediatrician
+Deviated Nasal Septum,ENT Specialist (Otolaryngologist)
+Diabetes (Type 2),Endocrinologist
+Diabetes Insipidus,Endocrinologist
+Diabetic Ketoacidosis,Endocrinologist
+Diabetic Kidney Disease,Nephrologist
+Diabetic Peripheral Neuropathy,Neurologist
+Diabetic Retinopathy,Ophthalmologist
+Diaper Rash,Pediatrician
+Dislocation Of The Ankle,Orthopedic Surgeon
+Dislocation Of The Elbow,Orthopedic Surgeon
+Dislocation Of The Finger,Orthopedic Surgeon
+Dislocation Of The Foot,Orthopedic Surgeon
+Dislocation Of The Hip,Orthopedic Surgeon
+Dislocation Of The Knee,Orthopedic Surgeon
+Dislocation Of The Patella,Orthopedic Surgeon
+Dislocation Of The Shoulder,Orthopedic Surgeon
+Dislocation Of The Vertebra,Orthopedic Spine Surgeon
+Dislocation Of The Wrist,Orthopedic Surgeon
+Dissociative Disorder,Psychiatrist
+Diverticulitis,Gastroenterologist
+Diverticulosis,Gastroenterologist
+Down Syndrome,Clinical Geneticist
+Drug Abuse,Psychiatrist (Addiction Medicine Specialist)
+Drug Abuse (Barbiturates),Psychiatrist (Addiction Medicine Specialist)
+Drug Abuse (Cocaine),Psychiatrist (Addiction Medicine Specialist)
+Drug Abuse (Methamphetamine),Psychiatrist (Addiction Medicine Specialist)
+Drug Abuse (Opioids),Psychiatrist (Addiction Medicine Specialist)
+Drug Poisoning Due To Medication,Emergency Medicine Specialist
+Drug Reaction/Allergy,Allergy & Immunology Specialist
+Drug Withdrawal,Psychiatrist (Addiction Medicine Specialist)
+Dry Eye Of Unknown Cause,Ophthalmologist
+Dumping Syndrome,Gastroenterologist
+Dyshidrosis,Dermatologist
+Dysthymic Disorder,Psychiatrist
+Ear Drum Damage,ENT Specialist (Otolaryngologist)
+Ear Wax Impaction,ENT Specialist (Otolaryngologist)
+Eating Disorder,Psychiatrist
+Ectopic Pregnancy,Obstetrician & Gynecologist
+Ectropion,Ophthalmologist
+Eczema,Dermatologist
+Edward Syndrome,Clinical Geneticist
+Ehlers-Danlos Syndrome,Rheumatologist / Clinical Geneticist
+Emphysema,Pulmonologist
+Empyema,Pulmonologist
+Encephalitis,Neurologist / Infectious Disease Specialist
+Endocarditis,Cardiologist
+Endometrial Cancer,Gynecologic Oncologist
+Endometrial Hyperplasia,Gynecologist
+Endometriosis,Gynecologist
+Endophthalmitis,Ophthalmologist
+Envenomation From Spider Or Animal Bite,Emergency Medicine Specialist
+Ependymoma,Neurosurgeon
+Epididymitis,Urologist
+Epidural Hemorrhage,Neurosurgeon
+Epilepsy,Neurologist
+Erectile Dysfunction,Urologist
+Erythema Multiforme,Dermatologist
+Esophageal Cancer,Surgical Oncologist / Medical Oncologist
+Esophageal Varices,Gastroenterologist
+Esophagitis,Gastroenterologist
+Essential Tremor,Neurologist
+Eustachian Tube Dysfunction (Ear Disorder),ENT Specialist (Otolaryngologist)
+Extrapyramidal Effect Of Drugs,Neurologist
+Eye Alignment Disorder,Ophthalmologist
+Factitious Disorder,Psychiatrist
+Fanconi Anemia,Hematologist
+Female Genitalia Infection,Gynecologist
+Female Infertility Of Unknown Cause,Reproductive Endocrinologist / Gynecologist
+Fetal Alcohol Syndrome,Developmental Pediatrician
+Fibroadenoma,Breast Surgeon
+Fibrocystic Breast Disease,Breast Surgeon
+Fibromyalgia,Rheumatologist
+Flat Feet,Orthopedic Surgeon
+Floaters,Ophthalmologist
+Fluid Overload,Nephrologist
+Folate Deficiency,Hematologist
+Food Allergy,Allergy & Immunology Specialist
+Foreign Body In The Ear,ENT Specialist (Otolaryngologist)
+Foreign Body In The Eye,Ophthalmologist
+Foreign Body In The Gastrointestinal Tract,Gastroenterologist
+Foreign Body In The Nose,ENT Specialist (Otolaryngologist)
+Foreign Body In The Throat,ENT Specialist (Otolaryngologist)
+Foreign Body In The Vagina,Gynecologist
+Fracture Of The Ankle,Orthopedic Surgeon
+Fracture Of The Arm,Orthopedic Surgeon
+Fracture Of The Facial Bones,Oral & Maxillofacial Surgeon
+Fracture Of The Foot,Orthopedic Surgeon
+Fracture Of The Hand,Orthopedic Surgeon
+Fracture Of The Jaw,Oral & Maxillofacial Surgeon
+Fracture Of The Leg,Orthopedic Surgeon
+Fracture Of The Neck,Orthopedic Spine Surgeon
+Fracture Of The Patella,Orthopedic Surgeon
+Fracture Of The Pelvis,Orthopedic Surgeon
+Fracture Of The Rib,Thoracic Surgeon
+Fracture Of The Shoulder,Orthopedic Surgeon
+Fracture Of The Skull,Neurosurgeon
+Fracture Of The Vertebra,Orthopedic Spine Surgeon / Neurosurgeon
+Friedrich Ataxia,Neurologist / Clinical Geneticist
+Frostbite,Plastic Surgeon
+Fungal Infection,Dermatologist
+Fungal Infection Of The Hair,Dermatologist
+Fungal Infection Of The Skin,Dermatologist
+G6Pd Enzyme Deficiency,Hematologist
+GERD (Acid Reflux),Gastroenterologist
+Galactorrhea Of Unknown Cause,Endocrinologist
+Gallstone Disease,General Surgeon
+Ganglion Cyst,Orthopedic Hand Surgeon
+Gas Gangrene,General Surgeon
+Gastritis,Gastroenterologist
+Gastroduodenal Ulcer,Gastroenterologist
+Gastroenteritis,Gastroenterologist
+Gastroesophageal Reflux Disease (Gerd),Gastroenterologist
+Gastrointestinal Hemorrhage,Gastroenterologist
+Gastroparesis,Gastroenterologist
+Gaucher Disease,Hematologist / Clinical Geneticist
+Genital Herpes,Gynecologist / Urologist
+Gestational Diabetes,Obstetrician & Gynecologist / Endocrinologist
+Glaucoma,Ophthalmologist
+Glucocorticoid Deficiency,Endocrinologist
+Goiter,Endocrinologist
+Gonorrhea,Gynecologist / Urologist
+Gout,Rheumatologist
+Granuloma Inguinale,Infectious Disease Specialist
+Graves Disease,Endocrinologist
+Guillain Barre Syndrome,Neurologist
+Gum Disease (Periodontitis),Dentist / Periodontist
+Gynecomastia,Endocrinologist / General Surgeon
+HIV/AIDS,Infectious Disease Specialist
+Hammer Toe,Orthopedic Surgeon
+Hashimoto Thyroiditis,Endocrinologist
+Hay Fever (Allergic Rhinitis),Allergy & Immunology Specialist
+Head And Neck Cancer,Head & Neck Surgical Oncologist / ENT Specialist
+Head Injury,Neurosurgeon
+Headache After Lumbar Puncture,Neurologist
+Heart Attack (Myocardial Infarction),Cardiologist
+Heart Block,Cardiologist
+Heart Contusion,Cardiologist
+Heart Failure,Cardiologist
+Heat Exhaustion,Emergency Medicine Specialist
+Heat Stroke,Emergency Medicine Specialist
+Hemangioma,Dermatologist / Vascular Surgeon
+Hemarthrosis,Orthopedic Surgeon
+Hematoma,General Surgeon
+Hematuria,Urologist
+Hemiplegia,Neurologist
+Hemochromatosis,Hematologist
+Hemolytic Anemia,Hematologist
+Hemophilia,Hematologist
+Hemorrhoids,Colorectal Surgeon
+Hepatic Encephalopathy,Hepatologist
+Hepatitis A,Hepatologist
+Hepatitis B,Hepatologist
+Hepatitis C,Hepatologist
+Hepatitis D,Hepatologist
+Hepatitis Due To A Toxin,Hepatologist
+Hepatitis E,Hepatologist
+Herniated Disk,Orthopedic Spine Surgeon / Neurosurgeon
+Herpangina,ENT Specialist (Otolaryngologist)
+Hiatal Hernia,Gastroenterologist / General Surgeon
+Hidradenitis Suppurativa,Dermatologist
+High Blood Pressure,Cardiologist
+Hirschsprung Disease,Pediatric Surgeon
+Hirsutism,Endocrinologist
+Histoplasmosis,Infectious Disease Specialist
+Hormone Disorder,Endocrinologist
+Hpv,Gynecologist / Urologist
+Huntington Disease,Neurologist
+Hydatidiform Mole,Gynecologist
+Hydrocele Of The Testicle,Urologist
+Hydrocephalus,Neurosurgeon
+Hydronephrosis,Urologist
+Hypercalcemia,Endocrinologist
+Hypercholesterolemia,Cardiologist
+Hyperemesis Gravidarum,Obstetrician & Gynecologist
+Hypergammaglobulinemia,Hematologist
+Hyperhidrosis,Dermatologist
+Hyperkalemia,Nephrologist
+Hyperlipidemia,Cardiologist
+Hypernatremia,Nephrologist
+Hyperopia,Ophthalmologist
+Hyperosmotic Hyperketotic State,Endocrinologist
+Hypertension,Cardiologist
+Hypertension Of Pregnancy,Obstetrician & Gynecologist
+Hypertensive Heart Disease,Cardiologist
+Hyperthyroidism,Endocrinologist
+Hypertrophic Obstructive Cardiomyopathy (Hocm),Cardiologist
+Hypocalcemia,Endocrinologist
+Hypoglycemia,Endocrinologist
+Hypokalemia,Nephrologist
+Hyponatremia,Nephrologist
+Hypothermia,Emergency Medicine Specialist
+Hypothyroidism,Endocrinologist
+Hypovolemia,Emergency Medicine Specialist
+Idiopathic Absence Of Menstruation,Gynecologist
+Idiopathic Excessive Menstruation,Gynecologist
+Idiopathic Infrequent Menstruation,Gynecologist
+Idiopathic Irregular Menstrual Cycle,Gynecologist
+Idiopathic Nonmenstrual Bleeding,Gynecologist
+Idiopathic Painful Menstruation,Gynecologist
+Ileus,General Surgeon
+Impetigo,Dermatologist
+Impulse Control Disorder,Psychiatrist
+Indigestion,Gastroenterologist
+Induced Abortion,Obstetrician & Gynecologist
+Infection Of Open Wound,General Surgeon
+Inflammatory Bowel Disease (IBD),Gastroenterologist
+Influenza (Flu),Infectious Disease Specialist
+Ingrown Toe Nail,Podiatrist / Orthopedic Surgeon
+Inguinal Hernia,General Surgeon
+Injury Of The Ankle,Orthopedic Surgeon
+Injury To Internal Organ,Trauma Surgeon / General Surgeon
+Injury To The Abdomen,Trauma Surgeon / General Surgeon
+Injury To The Arm,Orthopedic Surgeon
+Injury To The Face,Plastic Surgeon / Maxillofacial Surgeon
+Injury To The Hand,Orthopedic Hand Surgeon
+Injury To The Hip,Orthopedic Surgeon
+Injury To The Knee,Orthopedic Surgeon
+Injury To The Leg,Orthopedic Surgeon
+Injury To The Shoulder,Orthopedic Surgeon
+Injury To The Spinal Cord,Neurosurgeon
+Injury To The Trunk,Trauma Surgeon
+Insect Bite,Dermatologist
+Insulin Overdose,Emergency Medicine Specialist
+Interstitial Lung Disease,Pulmonologist
+Intertrigo (Skin Condition),Dermatologist
+Intestinal Cancer,Colorectal Surgeon / Medical Oncologist
+Intestinal Disease,Gastroenterologist
+Intestinal Malabsorption,Gastroenterologist
+Intestinal Obstruction,General Surgeon
+Intracerebral Hemorrhage,Neurosurgeon
+Intracranial Abscess,Neurosurgeon
+Intracranial Hemorrhage,Neurosurgeon
+Intussusception,General Surgeon
+Iridocyclitis,Ophthalmologist
+Iron Deficiency Anemia,Hematologist
+Irritable Bowel Syndrome (IBS),Gastroenterologist
+Ischemia Of The Bowel,Vascular Surgeon / General Surgeon
+Ischemic Heart Disease,Cardiologist
+Itching Of Unknown Cause,Dermatologist
+Jaundice,Hepatologist
+Jaw Disorder,Oral & Maxillofacial Surgeon
+Joint Effusion,Orthopedic Surgeon
+Juvenile Rheumatoid Arthritis,Rheumatologist
+Kaposi Sarcoma,Medical Oncologist
+Kidney Cancer,Urologic Oncologist
+Kidney Disease Due To Longstanding Hypertension,Nephrologist
+Kidney Failure,Nephrologist
+Kidney Stone,Urologist / Nephrologist
+Knee Ligament Or Meniscus Tear,Orthopedic Surgeon
+Labyrinthitis,ENT Specialist (Otolaryngologist)
+Lactose Intolerance,Gastroenterologist
+Laryngitis,ENT Specialist (Otolaryngologist)
+Lateral Epicondylitis (Tennis Elbow),Orthopedic Surgeon
+Leukemia,Hematologist / Medical Oncologist
+Lewy Body Dementia,Neurologist
+Lice,Dermatologist
+Lichen Planus,Dermatologist
+Lichen Simplex,Dermatologist
+Lipoma,General Surgeon
+Liver Cancer,Hepatologist / Medical Oncologist
+Liver Disease,Hepatologist
+Lumbago (Lower Back Pain),Orthopedic Spine Surgeon
+Lung Cancer,Pulmonologist / Medical Oncologist
+Lung Contusion,Pulmonologist
+Lyme Disease,Infectious Disease Specialist
+Lymphadenitis,General Surgeon
+Lymphangitis,Infectious Disease Specialist
+Lymphedema,Vascular Surgeon / Lymphedema Specialist
+Lymphogranuloma Venereum,Infectious Disease Specialist
+Lymphoma,Hematologist / Medical Oncologist
+Macular Degeneration,Ophthalmologist
+Magnesium Deficiency,Endocrinologist
+Malaria,Infectious Disease Specialist
+Male Genitalia Infection,Urologist
+Malignant Hypertension,Cardiologist
+Marfan Syndrome,Cardiologist / Clinical Geneticist
+Marijuana Abuse,Psychiatrist (Addiction Medicine Specialist)
+Mastectomy,Breast Surgeon
+Mastoiditis,ENT Specialist (Otolaryngologist)
+Meckel Diverticulum,General Surgeon
+Melanoma,Dermatologist / Surgical Oncologist
+Meniere Disease,ENT Specialist (Otolaryngologist)
+Meningioma,Neurosurgeon
+Meningitis,Infectious Disease Specialist / Neurologist
+Menopause,Gynecologist
+Metabolic Disorder,Endocrinologist
+Metabolic Syndrome,Endocrinologist
+Metastatic Cancer,Medical Oncologist
+Migraine,Neurologist
+Missed Abortion,Obstetrician & Gynecologist
+Mitral Valve Disease,Cardiologist
+Mittelschmerz,Gynecologist
+Molluscum Contagiosum,Dermatologist
+Mononeuritis,Neurologist
+Mononucleosis,Infectious Disease Specialist
+Moyamoya Disease,Neurosurgeon
+Mucositis,Oral Medicine Specialist
+Multiple Myeloma,Hematologist / Medical Oncologist
+Multiple Sclerosis,Neurologist
+Mumps,Infectious Disease Specialist
+Muscle Spasm,Orthopedic Surgeon
+Muscular Dystrophy,Neurologist
+Myasthenia Gravis,Neurologist
+Myelodysplastic Syndrome,Hematologist
+Myocarditis,Cardiologist
+Myoclonus,Neurologist
+Myopia,Ophthalmologist
+Myositis,Rheumatologist
+Narcolepsy,Neurologist / Sleep Medicine Specialist
+Nasal Disorder,ENT Specialist (Otolaryngologist)
+Nasal Polyp,ENT Specialist (Otolaryngologist)
+Necrotizing Fasciitis,General Surgeon
+Neonatal Jaundice,Neonatologist / Pediatrician
+Nerve Impingement Near The Shoulder,Neurologist / Orthopedic Surgeon
+Neuralgia,Neurologist
+Neurofibromatosis,Neurologist / Clinical Geneticist
+Neuropathy Due To Drugs,Neurologist
+Neurosis,Psychiatrist
+Niemann-Pick Disease,Clinical Geneticist / Neurologist
+Nonalcoholic Liver Disease (Nash),Hepatologist
+Noninfectious Gastroenteritis,Gastroenterologist
+Normal Pressure Hydrocephalus,Neurosurgeon
+Obesity,Endocrinologist
+Obsessive Compulsive Disorder (Ocd),Psychiatrist / Clinical Psychologist
+Obstructive Sleep Apnea (OSA),Pulmonologist / Sleep Medicine Specialist
+Omphalitis,General Surgeon
+Onychomycosis,Dermatologist
+Open Wound From Surgical Incision,General Surgeon
+Open Wound Of The Abdomen,General Surgeon
+Open Wound Of The Arm,Orthopedic Surgeon
+Open Wound Of The Back,General Surgeon
+Open Wound Of The Cheek,Plastic Surgeon / Oral & Maxillofacial Surgeon
+Open Wound Of The Chest,Thoracic Surgeon
+Open Wound Of The Ear,ENT Specialist (Otolaryngologist)
+Open Wound Of The Eye,Ophthalmologist
+Open Wound Of The Face,Plastic Surgeon
+Open Wound Of The Foot,Orthopedic Surgeon
+Open Wound Of The Head,Neurosurgeon
+Open Wound Of The Jaw,Oral & Maxillofacial Surgeon
+Open Wound Of The Knee,Orthopedic Surgeon
+Open Wound Of The Lip,Oral & Maxillofacial Surgeon
+Open Wound Of The Mouth,Oral & Maxillofacial Surgeon
+Open Wound Of The Neck,General Surgeon
+Open Wound Of The Nose,ENT Specialist (Otolaryngologist)
+Open Wound Of The Shoulder,Orthopedic Surgeon
+Oppositional Disorder,Psychiatrist
+Optic Neuritis,Ophthalmologist / Neurologist
+Oral Leukoplakia,Oral Medicine Specialist
+Oral Mucosal Lesion,Oral Medicine Specialist
+Oral Thrush (Yeast Infection),Dentist / Oral Medicine Specialist
+Orbital Cellulitis,Ophthalmologist
+Orthostatic Hypotension,Cardiologist
+Osteoarthritis,Orthopedic Surgeon / Rheumatologist
+Osteochondroma,Orthopedic Surgeon
+Osteochondrosis,Orthopedic Surgeon
+Osteomyelitis,Orthopedic Surgeon / Infectious Disease Specialist
+Osteopetrosis,Orthopedic Surgeon
+Osteoporosis,Endocrinologist
+Otitis Externa,ENT Specialist (Otolaryngologist)
+Otitis Media,ENT Specialist (Otolaryngologist)
+Otosclerosis,ENT Specialist (Otolaryngologist)
+Ovarian Cancer,Gynecologic Oncologist
+Ovarian Cyst,Gynecologist
+Ovarian Torsion,Gynecologist
+Overflow Incontinence,Urologist
+Pain After An Operation,Surgeon
+Pain Disorder Affecting The Neck,Orthopedic Spine Surgeon
+Pancreatic Cancer,Medical Oncologist / Hepatobiliary Surgeon
+Panic Attack,Psychiatrist
+Panic Disorder,Psychiatrist / Clinical Psychologist
+Parasitic Disease,Infectious Disease Specialist
+Parathyroid Adenoma,Endocrinologist
+Parkinson's Disease,Neurologist
+Paronychia,Dermatologist
+Paroxysmal Supraventricular Tachycardia,Cardiologist
+Paroxysmal Ventricular Tachycardia,Cardiologist
+Pelvic Fistula,Gynecologist / Colorectal Surgeon
+Pelvic Inflammatory Disease (PID),Gynecologist
+Pelvic Organ Prolapse,Gynecologist
+Pemphigus,Dermatologist
+Peptic Ulcer Disease,Gastroenterologist
+Pericarditis,Cardiologist
+Peripheral Arterial Disease,Vascular Surgeon
+Peripheral Arterial Embolism,Vascular Surgeon
+Peripheral Nerve Disorder,Neurologist
+Perirectal Infection,Colorectal Surgeon
+Peritonitis,General Surgeon
+Peritonsillar Abscess,ENT Specialist (Otolaryngologist)
+Persistent Vomiting Of Unknown Cause,Gastroenterologist
+Personality Disorder,Psychiatrist
+Peyronie Disease,Urologist
+Pharyngitis,ENT Specialist (Otolaryngologist)
+Phimosis,Urologist
+Pilonidal Cyst,General Surgeon
+Pinguecula,Ophthalmologist
+Pinworm Infection,Infectious Disease Specialist
+Pituitary Adenoma,Endocrinologist / Neurosurgeon
+Pituitary Disorder,Endocrinologist
+Pityriasis Rosea,Dermatologist
+Placenta Previa,Obstetrician & Gynecologist
+Placental Abruption,Obstetrician & Gynecologist
+Plantar Fasciitis,Orthopedic Surgeon
+Pleural Effusion,Pulmonologist
+Pneumoconiosis,Pulmonologist
+Pneumonia,Pulmonologist
+Pneumothorax,Thoracic Surgeon
+Poisoning Due To Analgesics,Emergency Medicine Specialist
+Poisoning Due To Anticonvulsants,Emergency Medicine Specialist
+Poisoning Due To Antidepressants,Emergency Medicine Specialist
+Poisoning Due To Antihypertensives,Emergency Medicine Specialist
+Poisoning Due To Antimicrobial Drugs,Emergency Medicine Specialist
+Poisoning Due To Antipsychotics,Emergency Medicine Specialist
+Poisoning Due To Ethylene Glycol,Emergency Medicine Specialist
+Poisoning Due To Gas,Emergency Medicine Specialist
+Poisoning Due To Opioids,Emergency Medicine Specialist
+Poisoning Due To Sedatives,Emergency Medicine Specialist
+Polycystic Kidney Disease,Nephrologist
+Polycystic Ovarian Syndrome (Pcos),Endocrinologist / Gynecologist
+Polycystic Ovary Syndrome (PCOS),Endocrinologist / Gynecologist
+Polycythemia Vera,Hematologist
+Polymyalgia Rheumatica,Rheumatologist
+Post-Traumatic Stress Disorder (Ptsd),Psychiatrist / Clinical Psychologist
+Postoperative Infection,General Surgeon
+Postpartum Depression,Psychiatrist
+Preeclampsia,Obstetrician & Gynecologist
+Pregnancy,Obstetrician & Gynecologist
+Pregnancy Complications,Obstetrician & Gynecologist
+Premature Atrial Contractions (Pacs),Cardiologist
+Premature Ovarian Failure,Gynecologist / Endocrinologist
+Premature Rupture Of Amniotic Membrane,Obstetrician & Gynecologist
+Premature Ventricular Contractions (Pvcs),Cardiologist
+Premenstrual Tension Syndrome,Gynecologist
+Presbyacusis,ENT Specialist (Otolaryngologist)
+Presbyopia,Ophthalmologist
+Priapism,Urologist
+Primary Immunodeficiency,Allergy & Immunology Specialist
+Primary Insomnia,Sleep Medicine Specialist
+Primary Kidney Disease,Nephrologist
+Primary Thrombocythemia,Hematologist
+Prostate Cancer,Urologic Oncologist / Medical Oncologist
+Prostatitis,Urologist
+Protein Deficiency,Clinical Nutrition Specialist / Gastroenterologist
+Pseudohypoparathyroidism,Endocrinologist
+Pseudotumor Cerebri,Neurologist
+Psoriasis,Dermatologist
+Psychosexual Disorder,Psychiatrist / Sexologist
+Psychotic Disorder,Psychiatrist
+Pterygium,Ophthalmologist
+Pulmonary Congestion,Cardiologist
+Pulmonary Embolism,Pulmonologist
+Pulmonary Eosinophilia,Pulmonologist
+Pulmonary Fibrosis,Pulmonologist
+Pulmonary Hypertension,Cardiologist / Pulmonologist
+Pulmonic Valve Disease,Cardiologist
+Pyelonephritis,Nephrologist / Urologist
+Pyloric Stenosis,Pediatric Surgeon
+Pyogenic Skin Infection,Dermatologist
+Raynaud Disease,Rheumatologist
+Reactive Arthritis,Rheumatologist
+Rectal Disorder,Colorectal Surgeon
+Restless Leg Syndrome,Neurologist
+Retinal Detachment,Ophthalmologist
+Retinopathy Due To High Blood Pressure,Ophthalmologist
+Rhabdomyolysis,Nephrologist
+Rheumatic Fever,Cardiologist
+Rheumatoid Arthritis,Rheumatologist
+Rocky Mountain Spotted Fever,Infectious Disease Specialist
+Rosacea,Dermatologist
+Rotator Cuff Injury,Orthopedic Surgeon
+Salivary Gland Disorder,ENT Specialist (Otolaryngologist)
+Sarcoidosis,Pulmonologist / Rheumatologist
+Scabies,Dermatologist
+Scar,Plastic Surgeon / Dermatologist
+Scarlet Fever,Infectious Disease Specialist
+Schizophrenia,Psychiatrist
+Sciatica,Neurologist / Orthopedic Spine Surgeon
+Scleritis,Ophthalmologist
+Scleroderma,Rheumatologist
+Scoliosis,Orthopedic Spine Surgeon
+Scurvy,Clinical Nutrition Specialist
+Sebaceous Cyst,General Surgeon / Dermatologist
+Seborrheic Dermatitis,Dermatologist
+Seborrheic Keratosis,Dermatologist
+Sensorineural Hearing Loss,ENT Specialist (Otolaryngologist)
+Sepsis,Infectious Disease Specialist
+Septic Arthritis,Orthopedic Surgeon / Infectious Disease Specialist
+Shingles (Herpes Zoster),Dermatologist
+Sialoadenitis,ENT Specialist (Otolaryngologist)
+Sick Sinus Syndrome,Cardiologist
+Sickle Cell Anemia,Hematologist
+Sickle Cell Disease,Hematologist
+Sinus Bradycardia,Cardiologist
+Sinusitis,ENT Specialist (Otolaryngologist)
+Sjogren Syndrome,Rheumatologist
+Skin Cancer,Dermatologist / Surgical Oncologist
+Skin Disorder,Dermatologist
+Skin Pigmentation Disorder,Dermatologist
+Skin Polyp,Dermatologist
+Smoking Or Tobacco Addiction,Psychiatrist (Addiction Medicine Specialist)
+Social Phobia,Psychiatrist / Clinical Psychologist
+Soft Tissue Sarcoma,Surgical Oncologist / Medical Oncologist
+Somatization Disorder,Psychiatrist
+Spermatocele,Urologist
+Spherocytosis,Hematologist
+Spina Bifida,Neurosurgeon
+Spinal Muscular Atrophy (SMA),Neurologist / Clinical Geneticist
+Spinal Stenosis,Orthopedic Spine Surgeon / Neurosurgeon
+Spinocerebellar Ataxia,Neurologist
+Spondylitis,Rheumatologist
+Spondylolisthesis,Orthopedic Spine Surgeon
+Spondylosis,Orthopedic Spine Surgeon
+Spontaneous Abortion,Obstetrician & Gynecologist
+Sporotrichosis,Dermatologist / Infectious Disease Specialist
+Sprain Or Strain,Orthopedic Surgeon
+Stenosis Of The Tear Duct,Ophthalmologist
+Stomach Cancer,Surgical Oncologist / Medical Oncologist
+Strep Throat,ENT Specialist (Otolaryngologist)
+Stress Incontinence,Urologist / Urogynecologist
+Stricture Of The Esophagus,Gastroenterologist
+Stroke,Neurologist
+Stye (Hordeolum),Ophthalmologist
+Subacute Thyroiditis,Endocrinologist
+Subarachnoid Hemorrhage,Neurosurgeon
+Subconjunctival Hemorrhage,Ophthalmologist
+Subdural Hemorrhage,Neurosurgeon
+Substance-Related Mental Disorder,Psychiatrist (Addiction Medicine Specialist)
+Syndrome Of Inappropriate Secretion Of Adh (Siadh),Endocrinologist
+Syphilis,Infectious Disease Specialist
+Syringomyelia,Neurosurgeon
+Systemic Lupus Erythematosus (SLE),Rheumatologist
+Teething Syndrome,Pediatrician
+Temporomandibular Joint Disorder,Oral & Maxillofacial Surgeon
+Tendinitis,Orthopedic Surgeon
+Tension Headache,Neurologist
+Testicular Cancer,Urologic Oncologist
+Testicular Disorder,Urologist
+Testicular Torsion,Urologist
+Thalassemia,Hematologist
+Thoracic Aortic Aneurysm,Vascular Surgeon
+Thoracic Outlet Syndrome,Vascular Surgeon / Orthopedic Surgeon
+Threatened Pregnancy,Obstetrician & Gynecologist
+Thrombocytopenia,Hematologist
+Thrombophlebitis,Vascular Surgeon
+Thyroid Cancer,Endocrine Surgeon / Medical Oncologist
+Thyroid Disease,Endocrinologist
+Thyroid Nodule,Endocrinologist
+Tic (Movement) Disorder,Neurologist
+Tietze Syndrome,Rheumatologist / Orthopedic Surgeon
+Tinnitus Of Unknown Cause,ENT Specialist (Otolaryngologist)
+Tonsillar Hypertrophy,ENT Specialist (Otolaryngologist)
+Tonsillitis,ENT Specialist (Otolaryngologist)
+Tooth Abscess,Dentist / Oral & Maxillofacial Surgeon
+Tooth Disorder,Dentist
+Torticollis,Orthopedic Surgeon
+Tourette Syndrome,Neurologist
+Toxic Multinodular Goiter,Endocrinologist
+Toxoplasmosis,Infectious Disease Specialist
+Tracheitis,ENT Specialist (Otolaryngologist)
+Transient Ischemic Attack,Neurologist
+Trichiasis,Ophthalmologist
+Trichinosis,Infectious Disease Specialist
+Trichomonas Infection,Gynecologist / Urologist
+Tricuspid Valve Disease,Cardiologist
+Trigeminal Neuralgia,Neurologist
+Trigger Finger (Finger Disorder),Orthopedic Hand Surgeon
+Tuberculosis (TB),Pulmonologist / Infectious Disease Specialist
+Tuberous Sclerosis,Neurologist / Clinical Geneticist
+Turner Syndrome,Endocrinologist / Clinical Geneticist
+Typhoid Fever,Infectious Disease Specialist
+Ulcerative Colitis,Gastroenterologist
+Urethral Disorder,Urologist
+Urethral Stricture,Urologist
+Urethral Valves,Urologist
+Urethritis,Urologist
+Urge Incontinence,Urologist
+Urinary Tract Infection (UTI),Urologist
+Urinary Tract Obstruction,Urologist
+Uterine Atony,Obstetrician & Gynecologist
+Uterine Cancer,Gynecologic Oncologist
+Uterine Fibroids,Gynecologist
+Uveitis,Ophthalmologist
+Vacterl Syndrome,Clinical Geneticist / Pediatrician
+Vaginal Cyst,Gynecologist
+Vaginal Yeast Infection,Gynecologist
+Vaginismus,Gynecologist
+Vaginitis,Gynecologist
+Valley Fever,Infectious Disease Specialist / Pulmonologist
+Varicocele Of The Testicles,Urologist
+Varicose Veins,Vascular Surgeon
+Vasculitis,Rheumatologist
+Venous Insufficiency,Vascular Surgeon
+Vertebrobasilar Insufficiency,Neurologist
+Vertigo (BPPV),ENT Specialist (Otolaryngologist)
+Vesicoureteral Reflux,Urologist
+Viral Exanthem,Dermatologist
+Viral Hepatitis,Hepatologist
+Viral Warts,Dermatologist
+Vitamin B12 Deficiency,Hematologist
+Vitamin D Deficiency,Endocrinologist
+Vitreous Degeneration,Ophthalmologist
+Vitreous Hemorrhage,Ophthalmologist
+Vocal Cord Polyp,ENT Specialist (Otolaryngologist)
+Volvulus,General Surgeon
+Von Willebrand Disease,Hematologist
+Vulvar Cancer,Gynecologic Oncologist
+Vulvar Disorder,Gynecologist
+Vulvodynia,Gynecologist
+Wernicke Korsakoff Syndrome,General Physician
+White Blood Cell Disease,Hematologist
+Whooping Cough (Pertussis),Infectious Disease Specialist / Pediatrician
+Wilson Disease,Hepatologist
+Yeast Infection,Gynecologist / Dermatologist
+Zenker Diverticulum,ENT Specialist (Otolaryngologist) / General Surgeon

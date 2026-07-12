@@ -1,0 +1,375 @@
+Symptom_Name,Index
+Abdominal Distention,0
+Abdominal Pain,1
+Abdominal Swelling,2
+Abnormal Appearing Skin,3
+Abnormal Breathing Sounds,4
+Abnormal Involuntary Movements,5
+Abnormal Movement Of Eyelid,6
+Absence Of Menstruation,7
+Acne Or Pimples,8
+Allergic Reaction,9
+Altered Consciousness,10
+Anal Itching,11
+Anal Pain,12
+Ankle Swelling,13
+Anxiety,14
+Anxiety And Nervousness,15
+Apnea,16
+Arm Pain,17
+Ataxia,18
+Back Pain,19
+Bladder Discomfort,20
+Bladder Symptoms,21
+Bleeding Gums,22
+Blindness,23
+Blisters,24
+Bloating,25
+Blood Clots During Menstrual Periods,26
+Blood Transfusion History,27
+Blood in Sputum,28
+Blood in Stool,29
+Blood in Urine,30
+Blurred Vision,31
+Body Ache,32
+Bone Pain,33
+Bradycardia,34
+Brittle Nails,35
+Bruising,36
+Burning Chest Pain,37
+Burning Urination,38
+Changes In Stool Appearance,39
+Chest Pain,40
+Chest Tightness,41
+Chills,42
+Cloudy Eye,43
+Cold Extremities,44
+Confusion,45
+Congestion In Chest,46
+Constipation,47
+Cough,48
+Cross-Eyed,49
+Cyanosis,50
+Dark Urine,51
+Dehydration,52
+Delusions/Hallucinations,53
+Depression,54
+Depressive Or Psychotic Symptoms,55
+Diarrhea,56
+Difficulty Eating,57
+Difficulty Speaking,58
+Difficulty Swallowing,59
+Diminished Hearing,60
+Diminished Vision,61
+Dizziness,62
+Double Vision,63
+Dry Cough,64
+Dry Lips,65
+Dry Or Flaky Scalp,66
+Dry/Scaly Skin,67
+Ear Pain,68
+Early Or Late Onset Of Menopause,69
+Early Satiety,70
+Enlarged Thyroid,71
+Excessive Anger,72
+Excessive Appetite,73
+Excessive Hunger,74
+Excessive Sweating,75
+Excessive Thirst,76
+Excessive Urination At Night,77
+Exertional Chest Pain,78
+Exertional Dyspnea,79
+Eye Burns Or Stings,80
+Eye Deviation,81
+Eye Moves Abnormally,82
+Eye Pain,83
+Eye Redness,84
+Eyelid Swelling,85
+Facial Pain,86
+Facial Puffiness,87
+Fainting,88
+Fatigue,89
+Feeling Cold,90
+Feeling Hot,91
+Feeling Ill,92
+Fever,93
+Flatulence,94
+Flu-Like Syndrome,95
+Fluid Overload,96
+Fluid Retention,97
+Flushing,98
+Focal Weakness,99
+Foot Or Toe Lump Or Mass,100
+Foreign Body Sensation In Eye,101
+Foul-Smelling Urine,102
+Frequent Menstruation,103
+Frequent Urination,104
+Frontal Headache,105
+Gait Instability,106
+Generalized Stiffness,107
+Gum Pain,108
+Hair Loss (Patchy),109
+Headache,110
+Heartburn,111
+Heavy Menstrual Flow,112
+Hematemesis,113
+High Fever,114
+High-Risk Sexual Contact,115
+Hip Pain,116
+Hoarseness,117
+Hostile Behavior,118
+Hot Flashes,119
+Hyperpigmentation,120
+Hypopigmentation,121
+Impotence,122
+Incontinence Of Stool,123
+Increased Appetite,124
+Infertility,125
+Insomnia,126
+Intermenstrual Bleeding,127
+Involuntary Urination,128
+Irregular Appearing Nails,129
+Irregular Appearing Scalp,130
+Irregular Blood Sugar,131
+Irregular Heartbeat,132
+Irritability,133
+Itching,134
+Itchy Eyelid,135
+Itchy Eyes,136
+Jaundice,137
+Jaundiced Skin,138
+Joint Pain,139
+Joint Stiffness,140
+Knee Pain,141
+Leg Swelling,142
+Lethargy,143
+Light Sensitivity,144
+Limb Weakness,145
+Limping,146
+Lip Swelling,147
+Long Menstrual Periods,148
+Loss Of Sensation,149
+Loss Of Sex Drive,150
+Loss of Appetite,151
+Loss of Balance,152
+Loss of Smell,153
+Loss of Taste,154
+Low Urine Output,155
+Lower Abdominal Pain,156
+Lower Back Pain,157
+Lower Body Pain,158
+Lump In Throat,159
+Lymphedema,160
+Maculopapular Rash,161
+Malaise,162
+Mass Or Swelling Around The Anus,163
+Melena (Dark Stools),164
+Memory Loss,165
+Mild Fever,166
+Morning Stiffness,167
+Mouth Dryness,168
+Mouth Pain,169
+Mouth Ulcer,170
+Muscle Cramps,171
+"Muscle Cramps, Contractures, Or Spasms",172
+Muscle Pain,173
+Muscle Stiffness,174
+Muscle Swelling,175
+Muscle Weakness,176
+Nail Inflammation,177
+Nail Pitting,178
+Nasal Congestion,179
+Nausea,180
+Neck Pain,181
+Neck Swelling,182
+Night Sweats,183
+Nosebleed,184
+Numbness,185
+Obesity,186
+Orthopnea,187
+Pain Behind Eyes,188
+Pain During Intercourse,189
+Pain In Gums,190
+Painful Breathing,191
+Painful Defecation,192
+Painful Menstruation,193
+Painful Urination,194
+Painful Walking,195
+Pallor (Pale Skin),196
+Palpitations,197
+Pelvic Pain,198
+Pelvic Pressure,199
+Peripheral Edema,200
+Personality Changes,201
+Petechiae,202
+Phlegm,203
+Photosensitive Rash,204
+Pleuritic Chest Pain,205
+Polyuria (Excessive Urination),206
+Poor Circulation,207
+Post-Nasal Drip,208
+Premature Ejaculation,209
+Premenstrual Tension Or Irritability,210
+Problems With Movement,211
+Productive Cough,212
+Puffy Face,213
+Pustules,214
+Rapid Breathing,215
+Rare Symptom Angiokeratomas Rare,216
+Rare Symptom Arrhythmia Persistent Rare,217
+Rare Symptom Bloody Sputum Rare,218
+Rare Symptom Bone Fractures Pathologic Rare,219
+Rare Symptom Bone Marrow Failure Rare,220
+Rare Symptom Bronchiectasis Rare,221
+Rare Symptom Bulbar Symptoms Rare,222
+Rare Symptom Butterfly Rash,223
+Rare Symptom Cardiomyopathy Rare,224
+Rare Symptom Developmental Delay Rare,225
+Rare Symptom Digital Clubbing,226
+Rare Symptom Dysautonomia Rare,227
+Rare Symptom Erythema Nodosum,228
+Rare Symptom Hearing Loss Early Onset Rare,229
+Rare Symptom Hematuria,230
+Rare Symptom Hemolytic Anemia Rare,231
+Rare Symptom Hepatosplenomegaly Rare,232
+Rare Symptom Hyperextensible Skin Rare,233
+Rare Symptom Joint Hypermobility Rare,234
+Rare Symptom Kyphoscoliosis Rare,235
+Rare Symptom Lens Dislocation Rare,236
+Rare Symptom Macroglossia Rare,237
+Rare Symptom Malar Rash,238
+Rare Symptom Massive Splenomegaly Rare,239
+Rare Symptom Neuropathic Pain Rare,240
+Rare Symptom Optic Neuritis Rare,241
+Rare Symptom Oral Ulcers,242
+Rare Symptom Pancytopenia Rare,243
+Rare Symptom Portal Hypertension Signs Rare,244
+Rare Symptom Proteinuria,245
+Rare Symptom Proximal Muscle Weakness Rare,246
+Rare Symptom Raynaud Phenomenon,247
+Rare Symptom Renal Cysts Rare,248
+Rare Symptom Respiratory Failure Rare,249
+Rare Symptom Skin Calcifications Rare,250
+Rare Symptom Spastic Paraparesis Rare,251
+Rare Symptom Steatorrhea Rare,252
+Rare Symptom Tall Stature Rare,253
+Rectal Bleeding,254
+Red Spots,255
+Redness In Or Around Nose,256
+Regurgitation,257
+Restlessness,258
+Runny Nose,259
+Scalp Itching,260
+Scanty Menstrual Flow,261
+Seizures,262
+Sharp Chest Pain,263
+Shortness of Breath,264
+Shoulder Pain,265
+Silver Dusting,266
+Sinus Congestion,267
+Sinus Pain,268
+Sinus Pressure,269
+Skin Discoloration,270
+Skin Growth,271
+Skin Irritation,272
+Skin Lesion,273
+Skin Moles,274
+Skin Nodules,275
+Skin Pain,276
+Skin Peeling,277
+Skin Rash,278
+Skin Redness,279
+Skin Swelling,280
+Sleepiness,281
+Slurred Speech,282
+Sneezing,283
+Sore In Nose,284
+Sore Throat,285
+Sound Sensitivity,286
+Speech Changes,287
+Speech Difficulty,288
+Spots Or Clouds In Vision,289
+Stiff Neck,290
+Suprapubic Pain,291
+Swollen Extremities,292
+Swollen Joints,293
+Swollen Lymph Nodes,294
+Swollen Or Red Tonsils,295
+Symptom Anhedonia,296
+Symptom Clammy Skin,297
+Symptom Claudication,298
+Symptom Cold Intolerance Symptom,299
+Symptom Compulsions,300
+Symptom Digital Ulcers,301
+Symptom Enthesitis,302
+Symptom Exercise Intolerance,303
+Symptom Facial Droop,304
+Symptom Fatigue On Exertion,305
+Symptom Frequent Nosebleeds,306
+Symptom Gi Bleeding,307
+Symptom Hair Loss Symptom,308
+Symptom Heat Intolerance Symptom,309
+Symptom Hot Flashes,310
+Symptom Hypersomnia,311
+Symptom Livedo Reticularis,312
+Symptom Low Mood,313
+Symptom Migraine Symptom,314
+Symptom Obsessions,315
+Symptom Panic Attacks,316
+Symptom Paroxysmal Nocturnal Dyspnea,317
+Symptom Photosensitivity Symptom,318
+Symptom Prolonged Bleeding,319
+Symptom Rash Psoriasiform,320
+Symptom Recurrent Infections,321
+Symptom Reduced Range Of Motion,322
+Symptom Shortness Of Breath On Exertion,323
+Symptom Sinus Pain,324
+Symptom Skin Thickening,325
+Symptom Social Withdrawal,326
+Symptom Spasticity,327
+Symptom Spine Rigidity,328
+Symptom Splenomegaly Symptom,329
+Symptom Suicidal Ideation,330
+Symptom Syncope,331
+Symptom Telangiectasia,332
+Symptom Tendon Tenderness,333
+Symptom Tremor Symptom,334
+Symptom Vision Blur,335
+Tachycardia,336
+Throat Feels Tight,337
+Throat Redness,338
+Throat Swelling,339
+Tingling/Paresthesia,340
+Tongue Lesions,341
+Too Little Hair,342
+Toothache,343
+Tremors,344
+Ulcers On Tongue,345
+Unintentional Weight Loss,346
+Unpredictable Menstruation,347
+Unsteadiness,348
+Unsterile Injection History,349
+Unusual Behavior,350
+Unusual Color Or Odor To Urine,351
+Unwanted Hair,352
+Upper Abdominal Pain,353
+Urinary Retention,354
+Urticaria (Hives),355
+Vaginal Discharge,356
+Vaginal Dryness,357
+Vaginal Itching,358
+Vaginal Pain,359
+Vaginal Redness,360
+Vertigo,361
+Visual Disturbances,362
+Vomiting,363
+Vulvar Irritation,364
+Warts,365
+Watery Eyes,366
+Weakness,367
+Weight Gain,368
+Weight Loss,369
+Wheezing,370
+Wrinkles On Skin,371
+Yellow Crust,372
+Yellow Eyes,373

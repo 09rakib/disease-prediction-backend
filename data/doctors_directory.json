@@ -1,0 +1,3013 @@
+{
+  "Cardiologist": [
+    {
+      "name": "Prof. Dr. M. A. Rashid",
+      "qualifications": "MBBS, MD, D.CARD, FACC (USA), FRCP (Glasgow)",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "Non-Invasive Cardiology, General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mir Jamal Uddin",
+      "qualifications": "MD (Cardiology), FACC (USA), FRCP (Edin)",
+      "position": "Director-cum-Professor, National Institute of Cardiovascular Diseases (NICVD)",
+      "focus_areas": "Clinical & Interventional Cardiology (Stenting, Angiogram).",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammad Safiuddin",
+      "qualifications": "MBBS, MD (Cardiology), FRCP (Edin), FACC (USA), FESC",
+      "position": "Professor & Chairman, Bangladesh Medical University (BMU)",
+      "focus_areas": "Coronary Intervention, Echocardiography, Advanced Cardiac Imaging.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Abdullah Al Shafi Majumdar",
+      "qualifications": "MBBS, D-Card, MD (Cardiology), FACC, FRCP",
+      "position": "Former Director & Professor (Retd.), NICVD; Consultant, Popular",
+      "focus_areas": "Clinical Cardiology, Hypertension, Rheumatic Fever.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Abdul Wadud Chowdhury",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "position": "Professor & Director (Retd.), NICVD; Consultant, Bangladesh Specialized Hospital",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M. Maksumul Haq",
+      "qualifications": "MBBS, FCPS, FACC, FRCP",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "General Cardiology, Invasive Procedures.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Brig. Gen. Prof. Dr. AFM Shamsul Haque",
+      "qualifications": "MBBS, FCPS, MD (Cardiology), FACC, FRCP",
+      "position": "Professor, Cardiology, Combined Military Hospital (CMH) (Retd.)",
+      "focus_areas": "Cardiology, Hypertension, Complex Medicine.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. S M Mustafa Zaman",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor, Labaid Cardiac Hospital",
+      "focus_areas": "Cardiology, Chest Diseases & Medicine, General and Interventional.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Afzalur Rahman",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "position": "Former Professor, NICVD; Consultant, Bangladesh Specialized Hospital",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Hasanur Rahman",
+      "qualifications": "MBBS, D.Card, MD (Cardiology)",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "Cardiac Electrophysiology (Arrhythmia), General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. CM Shaheen Kabir",
+      "qualifications": "MBBS, MD (Cardiology), FACC, FSCAI",
+      "position": "Professor of Cardiology & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "Interventional Cardiology, Cardiac Catheterization.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M G Azam",
+      "qualifications": "MBBS, MD (Cardiology), FSCAI (USA)",
+      "position": "Professor of Cardiology, Labaid Cardiac Hospital; Consultant, Popular",
+      "focus_areas": "General and Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M M Zahurul Alam Khan",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "position": "Ex. Professor, Labaid Specialized Hospital",
+      "focus_areas": "Cardiology, Diabetes & Medicine.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Mukhlesur Rahman",
+      "qualifications": "MBBS, MD (Cardiology), FACC (USA)",
+      "position": "Professor of Cardiology, BSMMU; Consultant, Popular",
+      "focus_areas": "Interventional Cardiology, Contrast Induced Complications.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M A Baki",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor & Head of Department, NICVD",
+      "focus_areas": "General and Clinical Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Atahar Ali",
+      "qualifications": "MBBS, MD, FCPS (Medicine), FACC",
+      "position": "Senior Consultant, Evercare Hospital Dhaka",
+      "focus_areas": "Cardiac Electrophysiology, Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Abdul Kader Akanda",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology), FACC",
+      "position": "Professor & Head of Dept. (Retd.), Labaid Specialized Hospital",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Khandaker Quamrul Islam",
+      "qualifications": "MBBS, D-Card, MD (Cardiology), FACC (USA)",
+      "position": "Professor (Retd.), NICVD; Consultant, Popular",
+      "focus_areas": "Clinical and Interventional Cardiology, Cardiac Invasive Procedures.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Saidur Rahman Khan",
+      "qualifications": "MBBS, MD, Ph.D, FACC (USA), FSCAI (USA)",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Sahela Nasrin",
+      "qualifications": "MBBS, MD (Cardiology), FSCAI",
+      "position": "CEO, Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "General Cardiology, Interventional.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammed Liaquat Ali",
+      "qualifications": "MBBS, FCPS (Medicine), MRCP (UK)",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Rezaul Karim",
+      "qualifications": "MBBS, D. Card (London)",
+      "position": "Professor of Cardiology & Sr. Consultant, Ibrahim Cardiac Hospital & Research Institute",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Khaled Mohsin",
+      "qualifications": "MBBS, MRCP, MD (NICVD), MSc (Cardiology)",
+      "position": "Consultant, Bangladesh Specialized Hospital",
+      "focus_areas": "Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Shahela Nasrin",
+      "qualifications": "MBBS, MD, FSCAI",
+      "position": "Professor, Cardiology, Ibrahim Cardiac Hospital",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Jahangir Kabir",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor, Cardiology, BSMMU",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammed Nazrul Islam",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "position": "Professor, Department of Medicine, DMCH",
+      "focus_areas": "Clinical Cardiology, General Medicine.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Abduz Zaher",
+      "qualifications": "Clinical and Interventional Cardiologist",
+      "position": "Senior Consultant, LABAID Specialized Hospital",
+      "focus_areas": "Clinical and Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M N Hossain",
+      "qualifications": "MBBS, FCPS (Medicine), MD (Cardiology)",
+      "position": "Professor, NICVD",
+      "focus_areas": "General and Clinical Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohshin Ahmed",
+      "qualifications": "MBBS, MD (Cardio), FIC, FACC, FASC",
+      "position": "Professor, Cardiology, Ibn Sina Specialized Hospital",
+      "focus_areas": "General and Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Harisul Hoque",
+      "qualifications": "Professor, BSMMU",
+      "position": "Heart Failure, Women's Heart Health, Cardio-oncology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Dipal Krishna Adhikary",
+      "qualifications": "Professor, BSMMU",
+      "position": "General Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Jahanara Arzu",
+      "qualifications": "Professor, BMU",
+      "position": "General Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A.T.M. Iqbal Hasan",
+      "qualifications": "Professor, BMU",
+      "position": "General Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Khurshed Ahmed",
+      "qualifications": "Professor, BMU",
+      "position": "General Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Abu Salim",
+      "qualifications": "Professor, BSMMU",
+      "position": "Intervention Cardiology, Electrophysiology Study.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. S.M. Shaheedul Islam",
+      "qualifications": "MBBS, FCPS (Ped), Fellowship in Pediatric Cardiology",
+      "position": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital",
+      "focus_areas": "Pediatric Cardiology (Children's Heart Diseases).",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Shahidul Islam",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor, NICVD",
+      "focus_areas": "General and Clinical Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mostafa Zaman",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor, BSMMU",
+      "focus_areas": "General and Clinical Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A P M Sohrabuzzaman",
+      "qualifications": "Professor, Director, Cardiac Cath Lab & Heart Rhythm Services, Labaid Cardiac Hospital",
+      "position": "Heart Rhythm Services, Interventional Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Nawshin Siraj",
+      "qualifications": "Professor & Sr. Consultant, Ibrahim Cardiac Hospital",
+      "position": "Cardiology.",
+      "focus_areas": null,
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Ghulam Mohammed Faruque",
+      "qualifications": "MBBS, MD, FSCAI (USA)",
+      "position": "Consultant & Course Director, Ibrahim Cardiac Hospital",
+      "focus_areas": "Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Moeen Uddin Ahmed",
+      "qualifications": "MBBS, MD (Cardiology, NICVD)",
+      "position": "Interventional Cardiologist, Popular",
+      "focus_areas": "Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Mahbub Mansur",
+      "qualifications": "Cardiologist",
+      "position": "Consultant, Square Hospital",
+      "focus_areas": "Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Shams Munwar",
+      "qualifications": "Senior Consultant",
+      "position": "Cardiology Care Centre, Evercare Hospital Dhaka",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. A.Q.M. Reza",
+      "qualifications": "Senior Consultant & Coordinator",
+      "position": "Cardiology Care Centre, Evercare Hospital Dhaka",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Kazi Atiqur Rahman",
+      "qualifications": "Senior Consultant",
+      "position": "Cardiology Care Centre, Evercare Hospital Dhaka",
+      "focus_areas": "General Cardiology, Hypertension, Rheumatic Fever.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Tamzeed Ahmed",
+      "qualifications": "Senior Consultant",
+      "position": "Cardiology Care Centre, Evercare Hospital Dhaka",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Shahabuddin Talukder",
+      "qualifications": "Senior Consultant",
+      "position": "Cardiology Care Centre, Evercare Hospital Dhaka",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Rasul Amin",
+      "qualifications": "Associate Professor",
+      "position": "BSMMU",
+      "focus_areas": "INTERVENTIONAL CARDIOLOGIST.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. Md. Abul Khair",
+      "qualifications": "MBBS, D-Card, FCPS (Cardiology)",
+      "position": "Consultant, Popular Diagnostic Centre",
+      "focus_areas": "General and Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. A K M Mohiuddin Bhuiyan Masum",
+      "qualifications": "MD (Cardiology)",
+      "position": "Clinical & Interventional Cardiologist, Popular",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. Md. Jabed Iqbal",
+      "qualifications": "MBBS, D.Card",
+      "position": "Associate Professor & Consultant, Ibrahim Cardiac Hospital",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. Arifur Rahman",
+      "qualifications": "MBBS, D. Card, FCPS (Cardiology)",
+      "position": "Associate Professor & Consultant, Ibrahim Cardiac Hospital",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Syed Dawood Mohammad Taimur",
+      "qualifications": "MBBS, D.Card, MPH, FACC (USA)",
+      "position": "Associate Professor & Consultant, Ibrahim Cardiac Hospital",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. H N Ashiqur Rahman",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Consultant, Popular Diagnostic Centre",
+      "focus_areas": "General Cardiology, Anticoagulation Therapy.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. DMM Faruque Osmani",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Consultant, Popular Diagnostic Centre",
+      "focus_areas": "Clinical & Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Sanjib Chowdhury",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Consultant, Popular Diagnostic Centre",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Humayun Kabir Mintu",
+      "qualifications": "MBBS, D-Card, MD (Cardiology)",
+      "position": "Consultant, Popular Diagnostic Centre",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Nupur Kar",
+      "qualifications": "MBBS, MD (Cardiology)",
+      "position": "Professor, DMCH; Consultant, Popular",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Shakil Gafur",
+      "qualifications": "MBBS, DTCD, MD (Cardiology)",
+      "position": "Professor, NICVD; Consultant, Popular",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Asst. Prof. Dr. Farhana Ahmad",
+      "qualifications": "MBBS, FCPS, FSCA (USA)",
+      "position": "Assistant Professor, DMCH; Consultant, Popular",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Rasul Amin",
+      "qualifications": "Associate Professor",
+      "position": "BSMMU",
+      "focus_areas": "Interventional Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Mahbubor Rahman",
+      "qualifications": "Senior Consultant",
+      "position": "Labaid Cardiac Hospital",
+      "focus_areas": "General Cardiology & Medicine Specialist.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Arun Kumar Sharma",
+      "qualifications": "Senior Consultant",
+      "position": "Labaid Cardiac Hospital",
+      "focus_areas": "Clinical & Interventional Cardiologist.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. S. Mokaddas Hossain (Sadi)",
+      "qualifications": "Associate Professor (Cardiology)",
+      "position": "Labaid Cardiac Hospital",
+      "focus_areas": "General Cardiology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    }
+  ],
+  "Neurologist": [
+    {
+      "name": "Prof. Dr. Quazi Deen Mohammad",
+      "qualifications": "MD (Neuro), FCPS",
+      "position": "Director, NINS (National Institute of Neurosciences)",
+      "focus_areas": null,
+      "chamber_address": "SPRC & Neurology Hospital, Maghbazar.",
+      "hours": null,
+      "contact_phones": [
+        "01765-660811"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Badrul Alam",
+      "qualifications": "MD (Neuro), FACP (USA)",
+      "position": "Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Central Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060800"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Narayan Chandra Saha",
+      "qualifications": "MD (Pediatric Neuro)",
+      "position": "Head (Pediatric Neurology), NINS",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Shafiul Alam",
+      "qualifications": "MD (Neuro)",
+      "position": "Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Mansur Habib",
+      "qualifications": "FCPS, MD (Neuro)",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid Specialized Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Anisul Haque",
+      "qualifications": "FCPS, FRCP, PhD",
+      "position": "Consultant Neurologist",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Firoz Ahmed Quraishi",
+      "qualifications": "MD (Neuro)",
+      "position": "Former Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Nirmalendu Bikash Bhowmik",
+      "qualifications": "MD (Neuro)",
+      "position": "Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Sk. Sader Hossain",
+      "qualifications": "MS (Neuro Surgery)",
+      "position": "Professor (Neuro Surgery), NINS",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Sharif Uddin Khan",
+      "qualifications": "MD (Neuro)",
+      "position": "Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Shyamoli.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787806"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Maliha Hakim",
+      "qualifications": "MD (Neuro)",
+      "position": "Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Azharul Hoque",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Alim Akhtar Bhuiyan",
+      "qualifications": "MBBS, MD (Neuro)",
+      "position": "Senior Consultant, Evercare",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Khandker Mahbuba Akhter",
+      "qualifications": "MD (Neuro)",
+      "position": "Senior Consultant, Evercare",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Rama Biswas",
+      "qualifications": "FCPS (Medicine), MD (Neuro)",
+      "position": "Associate Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Zigatola.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Dr. Md. Rashedul Islam",
+      "qualifications": "MD (Neuro)",
+      "position": "Associate Professor, NINS",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Malibagh.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009611"
+      ]
+    },
+    {
+      "name": "Dr. Mohammad Monir Hossain",
+      "qualifications": "MD (Ped. Neuro)",
+      "position": "Asst. Prof (Pediatric Neuro), NINS",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Badda.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009614"
+      ]
+    },
+    {
+      "name": "Dr. Dipa Saha",
+      "qualifications": "FCPS (Ped. Neuro)",
+      "position": "Consultant, NINS",
+      "focus_areas": null,
+      "chamber_address": "Comfort Diagnostic, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "01731-956033"
+      ]
+    },
+    {
+      "name": "Dr. Md. Nahidul Islam",
+      "qualifications": "MD (Neuro)",
+      "position": "Consultant, NINS",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Rumana Habib",
+      "qualifications": "FCPS, MD (Neuro)",
+      "position": "Asst. Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Popular Medical College.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787800"
+      ]
+    }
+  ],
+  "Gastroenterologist": [
+    {
+      "name": "Prof. Dr. Mahmud Hasan",
+      "qualifications": "FCPS, PhD, FRCP",
+      "position": "Former VC, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Central Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060800"
+      ]
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Khorshed Alam",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Abdur Rahim Mia",
+      "qualifications": "MD (Gastro)",
+      "position": "Ex-Chairman, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "DigiLab, Mirpur 10.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Prof. Dr. A H M Rowshon",
+      "qualifications": "MD (Gastro)",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Faruque Ahmed",
+      "qualifications": "MD, FCPS",
+      "position": "Director, Sheikh Russel Gastro",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Swapan Chandra Dhar",
+      "qualifications": "MD (Gastro)",
+      "position": "Professor, DMC",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Chanchal Kumar Ghosh",
+      "qualifications": "MD (Gastro)",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Dewan Saifuddin Ahmed",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Anisur Rahman",
+      "qualifications": "MD (Gastro)",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Hasan Masud",
+      "qualifications": "MD (Gastro)",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Shantinagar.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787803"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Kanu Bala",
+      "qualifications": "MD, PhD",
+      "position": "Professor, USTC",
+      "focus_areas": null,
+      "chamber_address": "Medinet, Mirpur 1.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Md. Motaher Hossain",
+      "qualifications": "MD (Gastro)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Lutfus Saleheen",
+      "qualifications": "FCPS, MD",
+      "position": "Senior Consultant, Evercare",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Sutparna Barua",
+      "qualifications": "MD (Gastro)",
+      "position": "Senior Consultant, Square",
+      "focus_areas": null,
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Dr. Brig. Gen. Md. Mofizul Islam",
+      "qualifications": "MD (Gastro)",
+      "position": "Interventional Gastro, CMH",
+      "focus_areas": null,
+      "chamber_address": "Popular, Mirpur.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787807"
+      ]
+    },
+    {
+      "name": "Dr. Sheikh Md. Noor-E-Alam",
+      "qualifications": "MD (Hepatology)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Mamun-Al-Mahtab (Shwapnil)",
+      "qualifications": "MD (Hepatology)",
+      "position": "Prof. (Hepatology), BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Md. Mohsin Kabir",
+      "qualifications": "MD (Hepatology)",
+      "position": "Associate Prof., BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Hafeza Aftab",
+      "qualifications": "MD (Gastro)",
+      "position": "Associate Prof., BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Dr. Suprio J. Chowdhury",
+      "qualifications": "MD (Gastro)",
+      "position": "Senior Consultant, United",
+      "focus_areas": null,
+      "chamber_address": "United Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10666"
+      ]
+    }
+  ],
+  "Endocrinologist": [
+    {
+      "name": "Prof. Dr. Md. Farid Uddin",
+      "qualifications": "MD, DEM",
+      "position": "Chairman (Endocrinology), BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Zafar Ahmed Latif",
+      "qualifications": "FCPS, FACE (USA)",
+      "position": "Former DG, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Faruque Pathan",
+      "qualifications": "MD (Endo)",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "BIRDEM Specialists Chamber.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060501"
+      ]
+    },
+    {
+      "name": "Prof. Dr. S.M. Ashrafuzzaman",
+      "qualifications": "MD, DEM",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Feroz Amin",
+      "qualifications": "MD, DEM, FACE",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Comfort Diagnostic, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "01731-956033"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Tofail Ahmed",
+      "qualifications": "FCPS, FACE",
+      "position": "Chief Consultant, Labaid",
+      "focus_areas": null,
+      "chamber_address": "Labaid Specialized Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. M.A. Hasanat",
+      "qualifications": "MD, M.Phil",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Dr. Md. Abdul Mannan",
+      "qualifications": "MD (Endo)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Anwer Khan Modern Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01757-138425"
+      ]
+    },
+    {
+      "name": "Dr. Indrajit Prasad",
+      "qualifications": "FCPS, MD (Endo)",
+      "position": "Professor, DMC",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Faria Afsana",
+      "qualifications": "MD (Endo)",
+      "position": "Asst. Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Popular Medical College.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787800"
+      ]
+    },
+    {
+      "name": "Dr. Shahjada Selim",
+      "qualifications": "MD (Endo)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Comfort Diagnostic, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "01731-956033"
+      ]
+    },
+    {
+      "name": "Dr. Ahsanul Haq Amin",
+      "qualifications": "MD, DEM",
+      "position": "Senior Consultant, Evercare",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Md. Atiqur Rahman",
+      "qualifications": "MD (Endo)",
+      "position": "Senior Consultant, Square",
+      "focus_areas": null,
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Dr. Afsana Begum",
+      "qualifications": "MD (Endo)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Dr. Kazi Nazmul Hossain",
+      "qualifications": "MD (Endo)",
+      "position": "Associate Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Dr. M. A. Halim Khan",
+      "qualifications": "MD, DEM",
+      "position": "Asst. Professor, NIKDU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Mirpur.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787807"
+      ]
+    },
+    {
+      "name": "Dr. Nazma Akter",
+      "qualifications": "MD (Endo)",
+      "position": "Asst. Professor, DMC",
+      "focus_areas": null,
+      "chamber_address": "Malibagh Doctors Chamber.\n\n📞 Call for Appt.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Tanvir Ahmed",
+      "qualifications": "MD (Endo)",
+      "position": "Consultant, United",
+      "focus_areas": null,
+      "chamber_address": "United Hospital, Gulshan.",
+      "hours": null,
+      "contact_phones": [
+        "10666"
+      ]
+    },
+    {
+      "name": "Dr. Marufa Mustari",
+      "qualifications": "MD (Endo)",
+      "position": "Asst. Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Nusrat Sultana",
+      "qualifications": "MD (Endo)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "BRB Hospitals, Panthapath.",
+      "hours": null,
+      "contact_phones": [
+        "10647"
+      ]
+    }
+  ],
+  "Dermatologist": [
+    {
+      "name": "Prof. Dr. M. U. Kabir ChowdhuryMBBS, DDV (Vienna), FRCP (Glasg)",
+      "qualifications": null,
+      "position": "Professor & Principal,Holy Family Red Crescent Medical College",
+      "focus_areas": "Aesthetic Dermatology, Skin Surgery, Allergies.",
+      "chamber_address": "National Skin Centre57/E, Panthapath (Near Samorita Hospital), Dhaka.",
+      "hours": "08:00 AM – 08:00 PM(Open Everyday)",
+      "contact_phones": [
+        "+880-2-9103130"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Shahidullah SikderMD (Dermatology), FRCP (Glasg)",
+      "qualifications": null,
+      "position": "Professor (Dermatology),BSMMU (PG Hospital)",
+      "focus_areas": "General Dermatology, Venereology, Allergy.",
+      "chamber_address": "Popular Diagnostic Centre(Dhanmondi Branch)House #16, Road #2, Dhanmondi.",
+      "hours": "10:00 AM – 01:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "09666-787801"
+      ]
+    },
+    {
+      "name": "Prof. Col. Dr. Md. Shirajul Islam KhanFCPS, DDV, MCPS",
+      "qualifications": null,
+      "position": "Professor & HOD (Dermatology),Combined Military Hospital (CMH)",
+      "focus_areas": "Laser Surgery, Hair/Nail Diseases, Sexual Medicine.",
+      "chamber_address": "Popular Diagnostic Centre(Dhanmondi Branch)House #16, Road #2, Dhanmondi.",
+      "hours": "06:00 PM – 08:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "01769-040824"
+      ]
+    },
+    {
+      "name": "Prof. Dr. A.Z.M Maidul IslamFCPS, DD, FAAD (USA)",
+      "qualifications": null,
+      "position": "Professor & Head (Dermatology),Anwer Khan Modern Medical College",
+      "focus_areas": "Clinical Dermatology, Skin Cancer, Complex Skin Diseases.",
+      "chamber_address": "Anwer Khan Modern HospitalHouse #17, Road #8, Dhanmondi, Dhaka.",
+      "hours": "10 AM – 1 PM & 5:30 PM – 7 PM(Closed: Friday)",
+      "contact_phones": [
+        "01757-138425"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Zakir Hossain GalibMBBS, MD (Dermatology)",
+      "qualifications": null,
+      "position": "Professor & Head (Dermatology),Sir Salimullah Medical College (Mitford)",
+      "focus_areas": "Psoriasis, Vitiligo, Sexual Medicine.",
+      "chamber_address": "Ibn Sina Diagnostic Center(Dhanmondi Branch)House #48, Road #9/A, Dhanmondi.",
+      "hours": "05:30 PM – 10:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Hasibur RahmanFCPS, MRCPS (Glasg), FACP (USA)",
+      "qualifications": null,
+      "position": "Senior Consultant (Dermatology),Evercare Hospital Dhaka",
+      "focus_areas": "Laser Cosmetology, Dermatosurgery, Sexual Disorders.",
+      "chamber_address": "Evercare Hospital DhakaPlot #81, Block-E, Bashundhara R/A, Dhaka.",
+      "hours": "10:00 AM – 05:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Wahida Khan ChowdhuryMBBS, DDV, FCPS",
+      "qualifications": null,
+      "position": "Head of Department,Enam Medical College & Hospital",
+      "focus_areas": "Cosmetic Dermatology, Laser Therapy, Women's Skin Health.",
+      "chamber_address": "Popular Diagnostic Centre(Uttara Unit-2)House #25, Road #7, Sector #4, Uttara.",
+      "hours": "05:00 PM – 09:00 PM(Sat & Tue)",
+      "contact_phones": [
+        "09613-787805"
+      ]
+    },
+    {
+      "name": "Dr. Jasmin ManzoorMBBS, DDSc (UK), MDSc (USA)",
+      "qualifications": null,
+      "position": "Senior Consultant & Coordinator,Evercare Hospital Dhaka",
+      "focus_areas": "Cosmetic Dermatology, Anti-Aging, Skin Rejuvenation.",
+      "chamber_address": "Evercare Hospital DhakaPlot #81, Block-E, Bashundhara R/A, Dhaka.",
+      "hours": "11:00 AM – 05:00 PM(Sun – Thu)",
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Zeenat MerajMBBS, FCPS, FRCP (Glasg)",
+      "qualifications": null,
+      "position": "Senior Consultant,United Hospital",
+      "focus_areas": "Aesthetic Dermatology, Laser Specialist.",
+      "chamber_address": "United HospitalPlot #15, Road #71, Gulshan, Dhaka.",
+      "hours": "By Appointment",
+      "contact_phones": [
+        "10666"
+      ]
+    },
+    {
+      "name": "Assoc. Prof. Dr. Lubna KhondokerMBBS, FCPS, MPH, DDV",
+      "qualifications": null,
+      "position": "Associate Professor (Dermatology),BSMMU",
+      "focus_areas": "Acne, Hair Loss (Alopecia), Paediatric Dermatology.",
+      "chamber_address": "Aalok Healthcare (Mirpur 10)House #1 & 3, Road #2, Block-B, Mirpur-10.",
+      "hours": "03:00 PM – 06:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "01915-448491"
+      ]
+    }
+  ],
+  "Urologist": [
+    {
+      "name": "Prof. Dr. A. K. M. Khurshidul Alam",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Professor of Urology, BSMMU; Consultant, Green Life Hospital",
+      "focus_areas": "Kidney Transplantation, Endourology, Reconstructive Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. (Dr.) A. K. M. Anwarul Islam",
+      "qualifications": "MBBS, FCPS, FRCS, FICS",
+      "position": "Professor & Former Chairman, Dept. of Urology, BSMMU",
+      "focus_areas": "General Urology, Kidney, Prostate, and Genito-Urinary Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M. A. Salam",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Former Chairman, Dept. of Urology, BSMMU",
+      "focus_areas": "Uro-Oncology (Cancers), General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A. T. M. Mowladad Chowdhury",
+      "qualifications": "MBBS, MS (Urology), FCPS, MRCS",
+      "position": "Senior Consultant, Urology, Evercare Hospital Dhaka",
+      "focus_areas": "Advanced Urology, Genitourinary Cancer, Reconstructive Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Shafiqul Alam Chowdhury (Shamim)",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Dept. of Urology, DMCH; Vice Principal, DMCH",
+      "focus_areas": "Kidney, Prostate, and Genitourinary Specialist and Surgeon.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. (Dr.) S. A. Khan",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Former Professor, BSMMU; Urologist & Transplant Surgeon, Popular",
+      "focus_areas": "Urologist & Transplant Surgeon, General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Ali Zulkifl",
+      "qualifications": "MBBS, FRCS (Eng)",
+      "position": "Senior Consultant, Urology, United Hospital",
+      "focus_areas": "Minimally Invasive Stone Treatment (Laser URS, PCNL, RIRS), Uro-oncology, Female Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. M. Zahid Hasan",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Coordinator & Senior Consultant, Urology, Evercare Hospital Dhaka",
+      "focus_areas": "Kidney Transplant, Minimally Invasive Urology (LASER), Uro-Oncological Surgeries.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Jahangir Kabir",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Chief Consultant & Head of Urology, Labaid Specialized Hospital",
+      "focus_areas": "Urologist, Andrologist, & Uro-Oncologist.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A. Z. M. Zahid Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Urology Specialist, Labaid Specialized Hospital",
+      "focus_areas": "General Urology, Kidney, Prostate, Bladder diseases.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Tohid Md. Saiful Hossain (Dipu)",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Urology & Kidney Transplant Surgery, Labaid Cardiac Hospital",
+      "focus_areas": "Urology & Kidney Transplant Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Maj. Gen. Prof. Dr. H. R. Harun (Retd.)",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Consultant Urological Surgeon, Labaid Specialized Hospital",
+      "focus_areas": "Ex. Consultant Surgeon General & Chief Urologist, Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Tawhid Ul-Islam",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Urologist, BRB Hospitals Limited",
+      "focus_areas": "Endourology, Laparoscopic Urology, Male Infertility, Erectile Dysfunction.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Humayun Kabir Kallol",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Consultant, Urology, Green Life Hospital Ltd.",
+      "focus_areas": "Laparoscopic Urology, General Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Abul Bashar Shahriar Ahmed",
+      "qualifications": "MBBS, MRCS(Ed.), FCPS (Surgery), MS (Urology)",
+      "position": "Consultant, Urology, United Hospital",
+      "focus_areas": "General Urology, Reconstructive Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Monir Us Saleheen",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist, Popular Diagnostic Centre",
+      "focus_areas": "Urology Specialist & Surgeon.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. A. B. Siddique",
+      "qualifications": "MBBS, MRCS, FCPS, MS (Urology)",
+      "position": "Assistant Professor, Dept. of Urology, NIKDU; Consultant, Popular",
+      "focus_areas": "Urology Specialist, Kidney Diseases & Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Abu Taher Mohammad Shaidulla Mansur",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Professor, Urology, DMCH",
+      "focus_areas": "General Urology & Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Masud Ahmed",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Urology Department, AICHI Medical College Hospital",
+      "focus_areas": "Kidney, Ureter, Urinary Bladder, Prostate & Male Sexual Organs Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Khondaker Quamruzzaman",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology, BSMMU",
+      "focus_areas": "Urological Surgery, Male Sexual Health.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mirja Shahjaman",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Department of Urology, BSMMU",
+      "focus_areas": "General and Specialized Urological Procedures.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Tofazzal Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology, NIKDU",
+      "focus_areas": "Urological Stones, Prostate Disorders.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. F. M. Faruk",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology, BSMMU",
+      "focus_areas": "General Urology, Urological Cancers.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Nazrul Islam",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology, NIKDU",
+      "focus_areas": "Kidney Diseases and Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. AKM Akramuzzaman",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Dept. of Urology, NICVD",
+      "focus_areas": "Uro-Cardio Specialist (Complex Urological cases in Heart Patients).",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M. F. Karim",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Dept. of Urology, Shaheed Suhrawardy Medical College Hospital",
+      "focus_areas": "Urology & Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. Md. Salahuddin Farugue",
+      "qualifications": "MBBS, FCPS, MS (Urology)",
+      "position": "Associate Professor, Dept. of Urology, BSMMU",
+      "focus_areas": "Uro-Oncology, General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Assoc. Prof. Dr. Sayem Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Associate Professor, Dept. of Urology, BSMMU; Consultant, BSH",
+      "focus_areas": "General Urology & Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Mamunur Rashid",
+      "qualifications": "FCPS (Surgery), MRCS, MS (Urology)",
+      "position": "Assistant Professor, Dept. of Urology, NIKDU; Consultant, Popular",
+      "focus_areas": "Urology & Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Nasir Uddin",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Assistant Professor (Urology), NIKDU; Consultant, Labaid",
+      "focus_areas": "Urology Specialist & Surgeon.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Golam Mostofa",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant, Square Hospital",
+      "focus_areas": "Urological Surgery, Endourology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Shamsul Alam",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant, Apollo/Evercare Hospital",
+      "focus_areas": "General Urology & Kidney Stone Treatment.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. AKM Zamanul Islam Bhuiyan",
+      "qualifications": "FCPS (Surgery), MS (Urology), FRCS",
+      "position": "Professor - Urology, Green Life Hospital Ltd.",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. S N Nag",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Assistant Professor - Urology, Green Life Hospital Ltd.",
+      "focus_areas": "Endoscopic Urologic Surgery, Kidney Stone Operation, Laser Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Hasina Sadia Khan",
+      "qualifications": "MBBS, MRCS, FCPS (Urology)",
+      "position": "Assistant Professor, East-West Medical College & Hospital",
+      "focus_areas": "Female Urology, Endourology & Reconstructive Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A K M Jahangir Alam",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor, Department of Urology, NIKDU",
+      "focus_areas": "Kidney Diseases and Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mizanur Rahman",
+      "qualifications": "MBBS, FCPS (Surgery), MS (Urology)",
+      "position": "Urologist & Andrologist, Bangladesh Specialized Hospital",
+      "focus_areas": "Urology & Andrology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Shahidul Islam",
+      "qualifications": "MBBS, MCPS, FCPS (Surgery), FCPS (Urology)",
+      "position": "Consultant, Urology, United Hospital",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. M. A. Wahab",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology (Retd.)",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Zahid Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist, Green Super Market, Dhaka",
+      "focus_areas": "Urology Specialist.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Abul Monaf",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist, Popular Diagnostic Center",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Omar Faruque Yusuf",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Urologist, Khulshi Hills, Chittagong",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Promode Ranjan Singh",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Assistant Professor, Dept. of Urology, Sylhet MAG Osmani Medical College",
+      "focus_areas": "Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Mahmood Hasan Sibli",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Associate Professor, Dept. of Surgery, Shaheed Shohrawardy Medical College Hospital",
+      "focus_areas": "Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Brig. Gen. Dr. S M Shameem Waheed",
+      "qualifications": "MBBS, FCPS (Surg), FCPS (Urology)",
+      "position": "Senior Consultant, Urology, Evercare Hospital Dhaka",
+      "focus_areas": "Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Colonel. Gen. M A Rakib",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Senior Consultant, Urology, Evercare Hospital Dhaka",
+      "focus_areas": "Urological Surgery.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Kazi Humayun Kabir",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Professor of Urology, BSMMU",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Moniruzzaman (Maruf)",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Sheikh Jannatul Kabir",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Farhad Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Harun-Or-Rashid",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Momenuzzaman Khan",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Mahbub Hossain",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Md. Saif Uddin",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. A.N.M. Mashud Rana",
+      "qualifications": "MBBS, MS (Urology)",
+      "position": "Consultant Urologist",
+      "focus_areas": "General Urology.",
+      "chamber_address": null,
+      "hours": null,
+      "contact_phones": []
+    }
+  ],
+  "Rheumatologist": [
+    {
+      "name": "Prof. Dr. Syed Atiqul Haq",
+      "qualifications": "FCPS, FRCP, MD",
+      "position": "Former Chairman, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01916-267769"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Nazrul Islam",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Anwer Khan Modern Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01757-138425"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Minhaj Rahim Choudhury",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Japan Bangladesh Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "02-9672277"
+      ]
+    },
+    {
+      "name": "Prof. Dr. M.A. Jalil Chowdhury",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Abu Shahin",
+      "qualifications": "MD (Rheum)",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Shahana Akhter Rahman",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Rowsan Ara",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, Green Life",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Dr. Shamim Ahmed",
+      "qualifications": "FCPS, MD",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Malibagh.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009611"
+      ]
+    },
+    {
+      "name": "Dr. Md. Masudul Hassan",
+      "qualifications": "MD (Rheum)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Islami Bank Hospital, Motijheel.",
+      "hours": null,
+      "contact_phones": [
+        "01810-000117"
+      ]
+    },
+    {
+      "name": "Dr. Md. Nahiduzzaman Shazzad",
+      "qualifications": "MD (Rheum)",
+      "position": "Consultant, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Aurora Specialist Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01404-450402"
+      ]
+    },
+    {
+      "name": "Dr. Asma Siddiqua",
+      "qualifications": "MD (Rheum)",
+      "position": "Senior Consultant, Evercare",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. A.K. Ahmedullah",
+      "qualifications": "MD (Rheum)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Md. Ariful Islam",
+      "qualifications": "MD (Rheum)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01556-330296"
+      ]
+    },
+    {
+      "name": "Dr. Sabrina Yesmin",
+      "qualifications": "MD (Rheum)",
+      "position": "Consultant, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "BIRDEM Specialists Chamber.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060501"
+      ]
+    },
+    {
+      "name": "Dr. Rumana Sheikh",
+      "qualifications": "FCPS, MD",
+      "position": "Consultant, Square",
+      "focus_areas": null,
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Dr. Md. Kamrul Hasan Sajib",
+      "qualifications": "MD (Rheum)",
+      "position": "Consultant, DMCH",
+      "focus_areas": null,
+      "chamber_address": "Japan Bangladesh Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01713-443360"
+      ]
+    },
+    {
+      "name": "Dr. Syed Monwar Ali",
+      "qualifications": "MD (Rheum)",
+      "position": "Consultant, DMCH",
+      "focus_areas": null,
+      "chamber_address": "Universal Medical College.",
+      "hours": null,
+      "contact_phones": [
+        "01841-480000"
+      ]
+    },
+    {
+      "name": "Dr. Abul Kalam Azad",
+      "qualifications": "MD (Rheum)",
+      "position": "Consultant, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Badda.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009614"
+      ]
+    },
+    {
+      "name": "Dr. Tarek Mahmood",
+      "qualifications": "MD (Rheum)",
+      "position": "Professor",
+      "focus_areas": null,
+      "chamber_address": "Popular Consultant Centre.",
+      "hours": null,
+      "contact_phones": [
+        "09666-787801"
+      ]
+    },
+    {
+      "name": "Dr. Farzana Shumy",
+      "qualifications": "FCPS, MD",
+      "position": "Consultant, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    }
+  ],
+  "Pulmonologist": [
+    {
+      "name": "Prof. Dr. Md. Soroar Hossain",
+      "qualifications": "MBBS, DTCD, FCPS",
+      "position": "Professor (Chest)",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Dr. Rajashis Chakraborty",
+      "qualifications": "MD (Chest), FCCP (USA)",
+      "position": "Assoc. Prof, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "BNSB Building, Mirpur-1.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Syed Rezaul Haque",
+      "qualifications": "MD (Chest), FCCP (USA)",
+      "position": "Professor, NIDCH",
+      "focus_areas": null,
+      "chamber_address": "Universal Medical College, Mohakhali.",
+      "hours": null,
+      "contact_phones": [
+        "10667"
+      ]
+    },
+    {
+      "name": "Dr. Naeem Hossain",
+      "qualifications": "MD (Pulmonology)",
+      "position": "Asst. Professor",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Azizur Rahman",
+      "qualifications": "MD (Chest), FCCP (USA)",
+      "position": "Medicine & Chest",
+      "focus_areas": null,
+      "chamber_address": "Chamber: Shyamoli (Opp. Shishu Mela).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Muhammad Sakhawat Hossain",
+      "qualifications": "FCPS (Chest)",
+      "position": "Consultant, NIDCH",
+      "focus_areas": null,
+      "chamber_address": "Miti Plaza, Mirpur-12.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Md. Zahirul Islam (Shakil)",
+      "qualifications": "MBBS, DTCD",
+      "position": "Asthma Specialist",
+      "focus_areas": null,
+      "chamber_address": "Mirpur-6 (Main Road).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Habib Uddin Ahmad",
+      "qualifications": "MD (Chest), DTCD",
+      "position": "Assoc. Professor",
+      "focus_areas": null,
+      "chamber_address": "Mirpur-10 (Opp. Indoor Stadium).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. T.I Khan Tauhid",
+      "qualifications": "MD (Chest), FCPS",
+      "position": "Chest Specialist",
+      "focus_areas": null,
+      "chamber_address": "Mirpur-10 (Block B).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Kazi Fauzia Afrin",
+      "qualifications": "MD (Respiratory Med)",
+      "position": "Asst. Professor",
+      "focus_areas": null,
+      "chamber_address": "Islam Tower, West Rampura.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. S.M. Abdur Razzaque",
+      "qualifications": "MD (Chest)",
+      "position": "Consultant, Chest",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Badda.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009614"
+      ]
+    },
+    {
+      "name": "Dr. Md. A.K.M. Akramul Islam",
+      "qualifications": "DTCD, MD (Chest)",
+      "position": "Chest Specialist",
+      "focus_areas": null,
+      "chamber_address": "Ibn Sina, Uttara.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009612"
+      ]
+    },
+    {
+      "name": "Dr. Tamanna Nargis",
+      "qualifications": "FCPS (Pulmonology)",
+      "position": "Consultant, Chest",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Jobaida Naznin",
+      "qualifications": "DTCD, FCPS (Chest)",
+      "position": "Consultant",
+      "focus_areas": null,
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    }
+  ],
+  "ID Specialist": [
+    {
+      "name": "Prof. Dr. ABM AbdullahMD (Internal Medicine), FRCP",
+      "qualifications": null,
+      "position": "Prof. (Emeritus), BSMMU; Personal Physician to PM",
+      "focus_areas": "Dengue, COVID-19, General ID",
+      "chamber_address": "Central HospitalHouse #2, Road #5, Green Road, Dhanmondi, Dhaka",
+      "hours": "5:00 PM – 10:00 PM(Closed: Thu & Fri)",
+      "contact_phones": [
+        "+880-2-41060800"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Taimor NawazMRCP, ABID (USA Board Certified)",
+      "qualifications": null,
+      "position": "Senior Consultant, United Hospital",
+      "focus_areas": "Infectious Diseases (USA Board), Internal Medicine",
+      "chamber_address": "United HospitalPlot #15, Road #71, Gulshan, Dhaka",
+      "hours": "9:00 AM – 1:30 PM &5:30 PM – 9:00 PM(Closed: Fri)",
+      "contact_phones": [
+        "10666"
+      ]
+    },
+    {
+      "name": "Assoc. Prof. Dr. Fazle Rabbi ChowdhuryFCPS, MSc (ID, UK), PhD (Oxford)",
+      "qualifications": null,
+      "position": "Assoc. Professor, BSMMU",
+      "focus_areas": "Sepsis, AMR, Tropical Medicine",
+      "chamber_address": "Central HospitalHouse #2, Road #5, Green Road, Dhanmondi, Dhaka",
+      "hours": "5:00 PM – 8:00 PM(Sun, Mon, Tue, Wed)",
+      "contact_phones": [
+        "10602"
+      ]
+    },
+    {
+      "name": "Dr. Ariful BasherFCPS (Infection & Tropical Diseases)",
+      "qualifications": null,
+      "position": "Senior Consultant, Infectious Diseases Hospital",
+      "focus_areas": "Tropical Fevers, Sepsis, Critical Care ID",
+      "chamber_address": "Bangladesh Specialized Hospital21 Shyamoli, Mirpur Road, Dhaka",
+      "hours": "Unknown / By Appt.",
+      "contact_phones": [
+        "10633",
+        "01405-600700"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Ahmedul KabirFCPS (Medicine), PhD",
+      "qualifications": null,
+      "position": "Professor, DMCH; ADG, DGHS",
+      "focus_areas": "Dengue, General Infectious Diseases",
+      "chamber_address": "AMZ HospitalCha-80/3, Progati Sarani, Uttar Badda, Dhaka",
+      "hours": "6:00 PM – 10:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "10699"
+      ]
+    },
+    {
+      "name": "Prof. Dr. A.K.M. MusaFCPS (Medicine), DTCD",
+      "qualifications": null,
+      "position": "Professor of Medicine; Consultant, Labaid",
+      "focus_areas": "Tuberculosis, Chest Infections, Tropical Diseases",
+      "chamber_address": "Labaid Specialized HospitalHouse #6, Road #4, Dhanmondi, Dhaka",
+      "hours": "6:00 PM – 9:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Pratik DewanMD (Internal Medicine)",
+      "qualifications": null,
+      "position": "Senior Consultant, Square Hospital",
+      "focus_areas": "Internal Medicine, Infectious Diseases",
+      "chamber_address": "Square Hospital18/F, West Panthapath, Dhaka",
+      "hours": "10 AM – 1 PM &5 PM – 8 PM(Closed: Fri)",
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Ridwanur RahmanMBBS, FCPS, MD",
+      "qualifications": null,
+      "position": "Senior Consultant, Medicine",
+      "focus_areas": "HIV/AIDS, Hepatitis, Tropical Medicine",
+      "chamber_address": "Universal Medical College Hospital(Formerly Aysha Memorial), Mohakhali",
+      "hours": "Afternoon/EveningVerify current status)",
+      "contact_phones": [
+        "10667("
+      ]
+    },
+    {
+      "name": "Dr. Raihan RabbaniFCPS, US Board Certified (Medicine)",
+      "qualifications": null,
+      "position": "Senior Consultant, Square Hospital",
+      "focus_areas": "Critical Care, Severe Infections",
+      "chamber_address": "Square Hospital18/F, West Panthapath, Dhaka",
+      "hours": "By Appointment",
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Khwaja Nazim UddinFCPS, FRCP, FACP",
+      "qualifications": null,
+      "position": "Professor, BIRDEM",
+      "focus_areas": "Diabetes & Infectious Diseases",
+      "chamber_address": "Labaid Specialized HospitalHouse #6, Road #4, Dhanmondi, Dhaka",
+      "hours": "6:00 PM – 10:00 PM(Closed: Friday)",
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Titu MiahFCPS (Medicine)",
+      "qualifications": null,
+      "position": "Professor, BSMMU",
+      "focus_areas": "Hepatobiliary Infections, Tropical Sprue",
+      "chamber_address": "Popular Diagnostic CentreDhanmondi Branch, House #16, Road #2",
+      "hours": "5:00 PM – 9:00 PM",
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Mohammad Robed AminFCPS (Medicine)",
+      "qualifications": null,
+      "position": "Professor, DMCH",
+      "focus_areas": "Zoonotic Diseases, One Health",
+      "chamber_address": "Private Practice variesOften available at major Diagnostic Centers",
+      "hours": "(Govt. official roles often limit private practice hours)",
+      "contact_phones": []
+    }
+  ],
+  "skin allergy": [
+    {
+      "name": "Dr. A.S.M. Didarul Ahsan",
+      "qualifications": "MBBS, DDV",
+      "position": null,
+      "focus_areas": "Skin Allergy & Sexual",
+      "chamber_address": "Green Life Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Dr. Md. Nurul Alam Sumon",
+      "qualifications": "FCPS, MCPS (Skin)",
+      "position": null,
+      "focus_areas": "Allergy & Immunology",
+      "chamber_address": "Ibn Sina, Uttara.",
+      "hours": null,
+      "contact_phones": [
+        "09610-009612"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Mahmudur Rahman",
+      "qualifications": "DDV (BSMMU)",
+      "position": null,
+      "focus_areas": "Allergy & Venereal",
+      "chamber_address": "Uttara Sector 4 (Shaista Khan Ave).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Prof. Brig. Gen. Dr. Moyassaque Ahmed",
+      "qualifications": "FCPS, DDV",
+      "position": null,
+      "focus_areas": "Skin & Allergy",
+      "chamber_address": "Mirpur-12 (Shahidbag).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Nazrul Islam Bhuiyan",
+      "qualifications": "DDV (DU)",
+      "position": null,
+      "focus_areas": "Skin & Allergy",
+      "chamber_address": "Universal Medical College, Mohakhali.",
+      "hours": null,
+      "contact_phones": [
+        "10667"
+      ]
+    },
+    {
+      "name": "Dr. Sanchia Taranoom",
+      "qualifications": "DDV, MCPS",
+      "position": null,
+      "focus_areas": "Skin Allergy & Laser",
+      "chamber_address": "Mirpur-12 (Kalshi Road).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Moshi Uddin Ahmed",
+      "qualifications": "MCPS (Derm)",
+      "position": null,
+      "focus_areas": "Allergy & Asthma",
+      "chamber_address": "BRAC Healthcare, Mirpur.",
+      "hours": null,
+      "contact_phones": [
+        "01713-047466"
+      ]
+    },
+    {
+      "name": "Dr. Shagota Sen",
+      "qualifications": "FCPS (Derm)",
+      "position": null,
+      "focus_areas": "Skin Allergy",
+      "chamber_address": "Medinova, Mirpur-10.",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    },
+    {
+      "name": "Dr. Tahmina Sultana (Shimul)",
+      "qualifications": "FCPS (Derm)",
+      "position": null,
+      "focus_areas": "Skin & Allergy",
+      "chamber_address": "Mirpur-10 (Opp. Indoor Stadium).",
+      "hours": null,
+      "contact_phones": [
+        "01740-486123"
+      ]
+    }
+  ],
+  "Allergists & Immunologists": [
+    {
+      "name": "Prof. Dr. Gobinda Chandra Das",
+      "qualifications": "MBBS, DCH, MCPS",
+      "position": null,
+      "focus_areas": "Allergy & Immunology",
+      "chamber_address": "The Allergy & Asthma Center, Panthapath.",
+      "hours": null,
+      "contact_phones": [
+        "01716-187563"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Moazzem Hossain",
+      "qualifications": "MBBS, M.Phil (Immunology)",
+      "position": null,
+      "focus_areas": "Allergy & Immunology",
+      "chamber_address": "The Allergy Center, Gulshan/Banani.\n\n📞 Call for Details",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. S. M. Saidur Rahman",
+      "qualifications": "PhD (Immunology)",
+      "position": null,
+      "focus_areas": "Allergy Specialist",
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. A.K.M Reja-Ul-Haque",
+      "qualifications": "MBBS, Immunology",
+      "position": null,
+      "focus_areas": "Allergy Specialist",
+      "chamber_address": "Monowara Hospital, Siddeshwari.",
+      "hours": null,
+      "contact_phones": [
+        "01711-665599"
+      ]
+    },
+    {
+      "name": "Dr. Md. Gofranul Hoque",
+      "qualifications": "FCPS (Medicine)",
+      "position": null,
+      "focus_areas": "Medicine & Allergy",
+      "chamber_address": "CSCR Hospital, Chattogram.",
+      "hours": null,
+      "contact_phones": [
+        "031-656565"
+      ]
+    },
+    {
+      "name": "Dr. H.M. Aminur Rashid",
+      "qualifications": "MBBS, DTCD",
+      "position": null,
+      "focus_areas": "Chest & Allergy",
+      "chamber_address": "Uttara Crescent Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "01911-356499"
+      ]
+    },
+    {
+      "name": "Dr. D.A. Hasib",
+      "qualifications": "MD, Dipl. Allergy (USA)",
+      "position": null,
+      "focus_areas": "Pediatric Allergy",
+      "chamber_address": "Apollo/Evercare (Check current status).",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Ibrahim Khalil Ullah",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Pulmonology & Allergy",
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Mohiuddin Ahmed",
+      "qualifications": "MD (Medicine)",
+      "position": null,
+      "focus_areas": "Internal Med & Allergy",
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Dr. Mir Mahfuzul Haque",
+      "qualifications": "MD (Medicine)",
+      "position": null,
+      "focus_areas": "Internal Med & Allergy",
+      "chamber_address": "Bangladesh Specialized Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10633"
+      ]
+    },
+    {
+      "name": "Dr. Arm Nooruzzaman",
+      "qualifications": "MD (Medicine)",
+      "position": null,
+      "focus_areas": "Internal Med & Allergy",
+      "chamber_address": "Popular Diagnostic.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Rashidul Hassan",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Asthma & Allergy",
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Ali Hossain",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Asthma & Allergy",
+      "chamber_address": "NIDCH (Chest Hospital).\n\n📞 Call for Appt",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mirza Mohammad Hiron",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Asthma & Allergy",
+      "chamber_address": "Popular Diagnostic.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Md. Adam Ali",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Asthma & Allergy",
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Dr. Asif Mujtaba Mahmud",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Respiratory Allergy",
+      "chamber_address": "Asgar Ali Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10602"
+      ]
+    },
+    {
+      "name": "Dr. Rawshan Arra Khanam",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Asthma & Allergy",
+      "chamber_address": "Holy Family Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "02-8311721"
+      ]
+    },
+    {
+      "name": "Dr. Kazi Saifuddin Benno",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Allergy & Chest",
+      "chamber_address": "Popular Diagnostic.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Md. Sayedul Islam",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Allergy & Chest",
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Bashir Ahmed",
+      "qualifications": "MD (Chest)",
+      "position": null,
+      "focus_areas": "Allergy & Chest",
+      "chamber_address": "Ibn Sina, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10615"
+      ]
+    },
+    {
+      "name": "Name",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "Qualifications",
+      "chamber_address": "Current Position & Affiliation",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. ABM Abdullah",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MD (Internal Medicine), FRCP",
+      "chamber_address": "Professor of Medicine, BSMMU; Personal Physician to the Honorable Prime Minister.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammed Nazrul Islam",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MBBS, FCPS (Medicine), MD (Internal Medicine)",
+      "chamber_address": "Professor and Chairman, Department of Medicine, DMCH.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Khondker Mohammad Shaheen",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MD (Internal Medicine)",
+      "chamber_address": "Professor of Medicine, DMCH.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Md. Titu Miah",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "FCPS (Medicine), MD (Gastroenterology)",
+      "chamber_address": "Professor of Gastroenterology, BSMMU.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammad Shahidullah",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "FCPS, FRCP (Glasg)",
+      "chamber_address": "Professor and Chairman, Department of Neonatology, BSMMU.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Sania Tahsin",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MD (Internal Medicine)",
+      "chamber_address": "Associate Professor of Medicine, BSMMU.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. A.S.M. Zakaria",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MD (Internal Medicine)",
+      "chamber_address": "Senior Consultant, Internal Medicine & Infectious Diseases, Apollo Hospitals, Dhaka.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Dr. Mushtaq Hossain",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MBBS, DTM&H (London), MPH",
+      "chamber_address": "Advisor and Public Health Specialist, IEDCR.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Be-Nazir Ahmed",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MBBS, MPH",
+      "chamber_address": "Former Director, DGHS; Public Health Consultant.",
+      "hours": null,
+      "contact_phones": []
+    },
+    {
+      "name": "Prof. Dr. Mohammad Robed Amin",
+      "qualifications": null,
+      "position": null,
+      "focus_areas": "MBBS, MPH",
+      "chamber_address": "Line Director (Non-Communicable Disease Control), DGHS; Former Spokesperson, IEDCR.",
+      "hours": null,
+      "contact_phones": []
+    }
+  ],
+  "Internal Medicine": [
+    {
+      "name": "Prof. Dr. ABM Abdullah",
+      "qualifications": "MRCP, FRCP",
+      "position": "Personal Physician to PM",
+      "focus_areas": null,
+      "chamber_address": "Central Hospital, Green Road.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060800"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Quazi Tarikul Islam",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Professor, Popular Med.",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Billal Alam",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Professor, DMCH",
+      "focus_areas": null,
+      "chamber_address": "Green Life Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10653"
+      ]
+    },
+    {
+      "name": "Prof. Dr. H.A.M. Nazmul Ahasan",
+      "qualifications": "FCPS, FRCP",
+      "position": "Professor, Popular",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. M.A. Faiz",
+      "qualifications": "FCPS, FRCP, PhD",
+      "position": "Former DG, DGHS",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Khan Abul Kalam Azad",
+      "qualifications": "FCPS, MD",
+      "position": "Principal, DMC",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Titu Miah",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Ridwanur Rahman",
+      "qualifications": "FCPS, MD",
+      "position": "Head, Research (Universal)",
+      "focus_areas": null,
+      "chamber_address": "Universal Medical College.",
+      "hours": null,
+      "contact_phones": [
+        "10667"
+      ]
+    },
+    {
+      "name": "Prof. Dr. Md. Mujibur Rahman",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Ariful Basher",
+      "qualifications": "FCPS, MD",
+      "position": "Senior Consultant, IDH",
+      "focus_areas": null,
+      "chamber_address": "Bangladesh Specialized Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10633"
+      ]
+    },
+    {
+      "name": "Prof. Dr. A.K.M. Musa",
+      "qualifications": "FCPS, DTCD",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Md. Motlabur Rahman",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Associate Professor, BSMMU",
+      "focus_areas": null,
+      "chamber_address": "Labaid, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "10606"
+      ]
+    },
+    {
+      "name": "Dr. Pratik Dewan",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Senior Consultant",
+      "focus_areas": null,
+      "chamber_address": "Square Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10616"
+      ]
+    },
+    {
+      "name": "Dr. Md. Abdullah Al Mamun",
+      "qualifications": "MD (Medicine)",
+      "position": "Senior Consultant",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Borhan Uddin Ahmad",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Senior Consultant",
+      "focus_areas": null,
+      "chamber_address": "Evercare Hospital Dhaka.",
+      "hours": null,
+      "contact_phones": [
+        "10678"
+      ]
+    },
+    {
+      "name": "Dr. Md. Azizul Kahhar",
+      "qualifications": "FCPS, MD",
+      "position": "Professor, DMCH",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Dhanmondi.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787801"
+      ]
+    },
+    {
+      "name": "Dr. Md. Robed Amin",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Line Director, DGHS",
+      "focus_areas": null,
+      "chamber_address": "Popular Diagnostic, Shantinagar.",
+      "hours": null,
+      "contact_phones": [
+        "09613-787803"
+      ]
+    },
+    {
+      "name": "Dr. Ahmedul Kabir",
+      "qualifications": "FCPS, PhD",
+      "position": "Professor, DMCH",
+      "focus_areas": null,
+      "chamber_address": "AMZ Hospital, Badda.",
+      "hours": null,
+      "contact_phones": [
+        "10699"
+      ]
+    },
+    {
+      "name": "Dr. Zaimul Huda",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Senior Consultant",
+      "focus_areas": null,
+      "chamber_address": "United Hospital.",
+      "hours": null,
+      "contact_phones": [
+        "10666"
+      ]
+    },
+    {
+      "name": "Dr. Md. Delwar Hossain",
+      "qualifications": "FCPS (Medicine)",
+      "position": "Professor, BIRDEM",
+      "focus_areas": null,
+      "chamber_address": "BIRDEM Specialists Chamber.",
+      "hours": null,
+      "contact_phones": [
+        "02-41060501"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,209 @@
+{
+  "Coronary Artery Disease": {
+    "department": "Cardiology",
+    "specialist": "Cardiologist",
+    "disease_name": "Coronary Artery Disease",
+    "primary_symptoms": "Chest pain or discomfort (Angina), Pain radiating to left arm/jaw/back, Shortness of breath on exertion",
+    "secondary_symptoms": "Nausea, Cold sweat, Fatigue, Dizziness",
+    "red_flags": "Crushing chest pain lasting >15 mins, Unconsciousness",
+    "first_aid": "Call Emergency (999), chew an Aspirin (if no allergy), sit down and stay calm."
+  },
+  "Heart Failure": {
+    "department": "Cardiology",
+    "specialist": "Cardiologist",
+    "disease_name": "Heart Failure",
+    "primary_symptoms": "Severe shortness of breath when lying flat (Orthopnea), Swelling in legs/ankles/feet (Edema), Rapid or irregular heartbeat",
+    "secondary_symptoms": "Persistent cough with white/pink phlegm, Swelling of the abdomen (Ascites), Sudden weight gain",
+    "red_flags": "Foamy pink mucus, Severe inability to breathe",
+    "first_aid": "Sit upright to ease breathing, avoid physical exertion, seek immediate hospital care."
+  },
+  "Arrhythmia": {
+    "department": "Cardiology",
+    "specialist": "Cardiologist",
+    "disease_name": "Arrhythmia",
+    "primary_symptoms": "Fluttering in chest, Racing heartbeat (Tachycardia), Slow heartbeat (Bradycardia)",
+    "secondary_symptoms": "Lightheadedness, Fainting (Syncope), Anxiety",
+    "red_flags": "Sudden collapse, Chest pain",
+    "first_aid": "Sit or lie down, try to relax, practice deep breathing. Call help if fainting occurs."
+  },
+  "Stroke": {
+    "department": "Neurology",
+    "specialist": "Neurologist",
+    "disease_name": "Stroke",
+    "primary_symptoms": "Sudden numbness/weakness of face/arm/leg, Sudden confusion or trouble speaking, Sudden trouble seeing",
+    "secondary_symptoms": "Sudden severe headache, Loss of balance or coordination, Dizziness",
+    "red_flags": "Face drooping, Arm weakness, Speech difficulty (FAST)",
+    "first_aid": "FAST: Face, Arms, Speech, Time. Call Emergency immediately. Do NOT give food/water."
+  },
+  "Migraine": {
+    "department": "Neurology",
+    "specialist": "Neurologist",
+    "disease_name": "Migraine",
+    "primary_symptoms": "Severe throbbing pain (one side), Sensitivity to light/sound, Nausea and vomiting",
+    "secondary_symptoms": "Visual aura (flashes of light), Tingling in face/hands, Lightheadedness",
+    "red_flags": "Worst headache of life (Thunderclap), Stiff neck with fever",
+    "first_aid": "Rest in a dark, quiet room. Apply cold compress to forehead. Hydrate."
+  },
+  "Epilepsy": {
+    "department": "Neurology",
+    "specialist": "Neurologist",
+    "disease_name": "Epilepsy",
+    "primary_symptoms": "Uncontrollable jerking movements (Seizures), Loss of consciousness, Temporary confusion",
+    "secondary_symptoms": "Staring spells, Fear or anxiety (Aura), Psychic symptoms (Déjà vu)",
+    "red_flags": "Seizure lasting >5 mins, Second seizure immediately after first",
+    "first_aid": "Recovery Position: Turn person to side. Cushion head. Do NOT put anything in mouth. Time the seizure."
+  },
+  "GERD (Acid Reflux)": {
+    "department": "Gastroenterology",
+    "specialist": "Gastroenterologist",
+    "disease_name": "GERD (Acid Reflux)",
+    "primary_symptoms": "Burning sensation in chest (Heartburn), Regurgitation of food/sour liquid, Difficulty swallowing",
+    "secondary_symptoms": "Chronic dry cough, Sore throat, Sensation of a lump in the throat",
+    "red_flags": "Vomiting blood, Black tarry stools",
+    "first_aid": "Sit upright (do not lie down). Drink water or take an antacid. Avoid trigger foods."
+  },
+  "Peptic Ulcer": {
+    "department": "Gastroenterology",
+    "specialist": "Gastroenterologist",
+    "disease_name": "Peptic Ulcer",
+    "primary_symptoms": "Burning stomach pain, Pain worsens when stomach is empty, Feeling of fullness/bloating",
+    "secondary_symptoms": "Intolerance to fatty foods, Nausea, Belching",
+    "red_flags": "Vomiting blood, Unexplained weight loss",
+    "first_aid": "Avoid spicy/acidic foods and NSAID pain killers. Drink cool milk or water. See a doctor."
+  },
+  "IBS": {
+    "department": "Gastroenterology",
+    "specialist": "Gastroenterologist",
+    "disease_name": "IBS",
+    "primary_symptoms": "Abdominal pain or cramping, Bloating and gas, Diarrhea or Constipation (alternating)",
+    "secondary_symptoms": "Mucus in stool, Urgency to have a bowel movement, Feeling of incomplete evacuation",
+    "red_flags": "Rectal bleeding, Weight loss, Pain at night",
+    "first_aid": "Hydrate appropriately. Eat small, bland meals. Avoid caffeine and stress."
+  },
+  "Diabetes Mellitus (Type 2)": {
+    "department": "Endocrinology",
+    "specialist": "Endocrinologist",
+    "disease_name": "Diabetes Mellitus (Type 2)",
+    "primary_symptoms": "Increased thirst (Polydipsia), Frequent urination (Polyuria), Unexplained weight loss",
+    "secondary_symptoms": "Extreme hunger (Polyphagia), Blurred vision, Slow-healing sores, Fatigue",
+    "red_flags": "Fruity breath odor, Confusion, Deep rapid breathing",
+    "first_aid": "Drink water (sugar-free). If feeling faint (hypoglycemia), eat a sugary snack. Monitor glucose."
+  },
+  "Hyperthyroidism": {
+    "department": "Endocrinology",
+    "specialist": "Endocrinologist",
+    "disease_name": "Hyperthyroidism",
+    "primary_symptoms": "Unintentional weight loss, Rapid heartbeat (Tachycardia), Tremors in hands",
+    "secondary_symptoms": "Sweating, Anxiety/Irritability, Heat sensitivity, Enlarged thyroid gland (Goiter)",
+    "red_flags": "Fever with rapid pulse, Delirium (Thyroid Storm)",
+    "first_aid": "Rest in a cool environment. Avoid caffeine. Seek medical advice for medication."
+  },
+  "Hypothyroidism": {
+    "department": "Endocrinology",
+    "specialist": "Endocrinologist",
+    "disease_name": "Hypothyroidism",
+    "primary_symptoms": "Fatigue, Increased sensitivity to cold, Weight gain",
+    "secondary_symptoms": "Constipation, Dry skin, Puffy face, Hoarseness",
+    "red_flags": "Severe drowsiness, Low body temperature",
+    "first_aid": "Keep warm. Avoid heavy meals. Consult doctor for thyroid hormone replacement."
+  },
+  "Eczema": {
+    "department": "Dermatology",
+    "specialist": "Dermatologist",
+    "disease_name": "Eczema",
+    "primary_symptoms": "Dry cracked skin, Itching (especially at night), Red to brownish-gray patches",
+    "secondary_symptoms": "Small raised bumps, Thickened scaly skin, Raw sensitive skin",
+    "red_flags": "Signs of infection (pus, yellow crusts, fever)",
+    "first_aid": "Apply moisturizer immediately. Avoid scratching. Use a cool, wet compress."
+  },
+  "Psoriasis": {
+    "department": "Dermatology",
+    "specialist": "Dermatologist",
+    "disease_name": "Psoriasis",
+    "primary_symptoms": "Red patches of skin with silvery scales, Dry cracked skin that bleeds, Itching/burning",
+    "secondary_symptoms": "Thickened/pitted nails, Swollen and stiff joints",
+    "red_flags": "Widespread redness, Severe pain",
+    "first_aid": "Moisturize heavily. Avoid harsh soaps. Expose affected skin to small amounts of sunlight."
+  },
+  "Fungal Infection": {
+    "department": "Dermatology",
+    "specialist": "Dermatologist",
+    "disease_name": "Fungal Infection",
+    "primary_symptoms": "Ring-shaped rash, Red scaly cracked skin, Hair loss in affected area",
+    "secondary_symptoms": "Itching, Blisters",
+    "red_flags": "Spreading rapidly, Painful swelling",
+    "first_aid": "Keep area dry and clean. Do not share towels. Apply over-the-counter antifungal cream."
+  },
+  "Kidney Stones": {
+    "department": "Urology",
+    "specialist": "Urologist",
+    "disease_name": "Kidney Stones",
+    "primary_symptoms": "Severe sharp pain in side/back, Pain radiating to lower abdomen/groin, Fluctuating pain intensity",
+    "secondary_symptoms": "Pink/red/brown urine, Nausea and vomiting, Persistent need to urinate",
+    "red_flags": "Fever and chills, Inability to pass urine",
+    "first_aid": "Drink plenty of water to flush system. Take OTC pain relief. Seek help if pain is unbearable."
+  },
+  "UTI": {
+    "department": "Urology",
+    "specialist": "Urologist",
+    "disease_name": "UTI",
+    "primary_symptoms": "Strong persistent urge to urinate, Burning sensation when urinating, Cloudy urine",
+    "secondary_symptoms": "Red or bright pink urine, Strong-smelling urine, Pelvic pain (women)",
+    "red_flags": "Back pain with high fever (Kidney infection)",
+    "first_aid": "Drink lots of water. Avoid caffeine/alcohol. Apply heat pad to abdomen for pain."
+  },
+  "Rheumatoid Arthritis": {
+    "department": "Rheumatology",
+    "specialist": "Rheumatologist",
+    "disease_name": "Rheumatoid Arthritis",
+    "primary_symptoms": "Tender warm swollen joints, Joint stiffness (worse in mornings), Fatigue/fever",
+    "secondary_symptoms": "Symmetrical joint pain, Firm bumps under skin (Rheumatoid nodules)",
+    "red_flags": "Severe joint deformity, Difficulty breathing",
+    "first_aid": "Rest the joint. Apply warm or cold compress. Take anti-inflammatory medication."
+  },
+  "Gout": {
+    "department": "Rheumatology",
+    "specialist": "Rheumatologist",
+    "disease_name": "Gout",
+    "primary_symptoms": "Intense joint pain (often big toe), Lingering discomfort, Inflammation and redness",
+    "secondary_symptoms": "Limited range of motion, Warmth over the joint",
+    "red_flags": "Tophi (lumps under skin), Kidney stones",
+    "first_aid": "Elevate the joint. Keep weight off it. Apply ice packs. Drink water. Avoid alcohol/red meat."
+  },
+  "Asthma": {
+    "department": "Respiratory",
+    "specialist": "Pulmonologist",
+    "disease_name": "Asthma",
+    "primary_symptoms": "Shortness of breath, Chest tightness or pain, Wheezing when exhaling",
+    "secondary_symptoms": "Trouble sleeping due to breathlessness, Coughing/wheezing attacks",
+    "red_flags": "Rapid worsening of breath, No improvement with inhaler",
+    "first_aid": "Sit upright. Use rescue inhaler (usually blue) immediately. Loosen tight clothing."
+  },
+  "COPD": {
+    "department": "Respiratory",
+    "specialist": "Pulmonologist",
+    "disease_name": "COPD",
+    "primary_symptoms": "Chronic cough, Shortness of breath during activity, Frequent respiratory infections",
+    "secondary_symptoms": "Blueness of lips/fingernails, Fatigue, High mucus production",
+    "red_flags": "Confusion, Rapid heartbeat",
+    "first_aid": "Stop smoking/irritants immediately. Use prescribed inhaler. Pursed-lip breathing technique."
+  },
+  "Dengue Fever": {
+    "department": "Infectious Disease",
+    "specialist": "ID Specialist",
+    "disease_name": "Dengue Fever",
+    "primary_symptoms": "High fever (40°C/104°F), Severe headache, Pain behind the eyes",
+    "secondary_symptoms": "Joint and muscle pain, Rash, Mild bleeding (nose/gum)",
+    "red_flags": "Severe abdominal pain, Persistent vomiting, Bleeding gums",
+    "first_aid": "Do NOT take Ibuprofen/Aspirin. Take Paracetamol. Drink plenty of fluids (ORS/Water). Rest."
+  },
+  "Tuberculosis (TB)": {
+    "department": "Infectious Disease",
+    "specialist": "ID Specialist",
+    "disease_name": "Tuberculosis (TB)",
+    "primary_symptoms": "Coughing for 3+ weeks, Coughing up blood/mucus, Chest pain",
+    "secondary_symptoms": "Unintentional weight loss, Fatigue, Fever, Night sweats",
+    "red_flags": "Massive coughing of blood, Difficulty breathing",
+    "first_aid": "Wear a mask to protect others. Isolate from family. Seek immediate medical testing."
+  }
+}
